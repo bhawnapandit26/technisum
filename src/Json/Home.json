@@ -1,0 +1,166 @@
+{
+    "slider" : {
+        "backGround" : "./src/assets/slider-bg.png",
+        "image" : "./src/assets/slider-image.png",
+        "alt" : "technisum",
+        "smallHeading" : "Boost Your Business",
+        "heading" : "Transform Your Clicks Into Clients",
+        "button" : "Get Started"
+    },
+    "secondSection" : {
+        "heading" : "We Build A Digital Interaction",
+        "paragraph" : "Gain competitive advantage from the digital transformation of your products and services.",
+        "card" : [{
+            "image" : "./src/assets/digital-marketing.png",
+            "alt" : "digital marketing",
+            "heading": "Digital Marketing ",
+            "paragraph": "Enables brands to communicate and interface with their audiences in a much better way.",
+            "button" : "Read More"
+        }, 
+        {
+            "image":"./src/assets/coding.png",
+            "alt" : "coding",
+            "heading" : "Smart Coding Development",
+            "paragraph" : "Our coding specialists will help your brand stand out and effectively deliver its message.",
+            "button" : "Read More"
+        }]
+    },
+    "company" : {
+        "paragraph" : "Over 500+ of the fastest-growing firms are collaborating with Technisum ",
+        "client" : ["./src/assets/image3.png", "./src/assets/image4.png", "./src/assets/image5.png", "./src/assets/image6.png", "./src/assets/image7.png"]
+    },
+    "leftSideImageSection" :{
+        "image" :"./src/assets/girl-w-mobile.png",
+        "alt" : "girl with mobile",
+        "heading" : "One Stop Solution For Your Business Boosting",
+        "paragraph" : "We offer a variety of software solution services, including platform development, custom programmer creation, and IT consulting."
+    },
+    "twoColumnSection" : [{
+        "heading" : "Digital Marketing",
+        "paragraph" : "You can evaluate and enhance your online outcomes with the aid of our cutting-edge tactics."
+    },
+    {
+        "heading" : "Search Engine Optimization",
+        "paragraph" : "with in-depth analysis and professional guidance, we bring your vision and ideas to life."
+    }],
+    "sahdowCards" :[{
+        "image": "./src/assets/digital-marketing-1.png",
+        "alt" : "digital marketing",
+        "heading" : "Digital Marketing",
+        "paragraph" : "Influence, involve, and expand your social media following",
+        "button" : "Read More"
+    }, 
+    {
+        "image": "./src/assets/coding-1.png",
+        "alt" : "coding",
+        "heading" : "Web Designing & Development",
+        "paragraph" : "With our innovative designs, you can stand out from the competition and successfully ",
+        "button" : "Read More"
+    }, 
+    {
+        "image": "./src/assets/app-development-1.png",
+        "alt" : "app development",
+        "heading" : "Mobile App Development",
+        "paragraph" : "Launch your iOS and Android apps simultaneously",
+        "button" : "Read More"
+    }, 
+    {
+        "image": "./src/assets/web-design-1.png",
+        "alt" : "web design",
+        "heading" : "Graphic Designing",
+        "paragraph" : "The Team's major area of focus is info graphics, which are essential for the website's design and life.",
+        "button" : "Read More"
+    }, 
+    {
+        "image": "./src/assets/ui.png",
+        "alt" : "ui",
+        "heading" : "UI & UX Design",
+        "paragraph" : "We provide the top UI/UX design services in accordance with customer needs",
+        "button" : "Read More"
+    }, 
+    {
+        "image": "./src/assets/technical-support.png",
+        "alt" : "technical support",
+        "heading" : "IT Service Consulting",
+        "paragraph" : "Aligning your IT resources with both existing and future business objectives is our goal",
+        "button" : "Read More"
+    }],
+    "rightSideImageSection" : {
+        "subHeading" : "Awesome Features",
+        "heading" : "Enhancing User Experience with these 4 Game-Changing Technologies",
+        "paragraph" :[{
+            "boldContent" : "Responsive Web Design:",
+            "paragraph" : "Craft websites that adapt seamlessly to all devices, ensuring a consistent and user-friendly experience."
+        }, 
+        {
+            "boldContent" : "rogressive Web Apps (PWAs):",
+            "paragraph" : "Developing web applications that offer app-like experiences, including offline access, push notifications, and faster load times."
+        }, 
+        {
+            "boldContent" : "Single Page Applications (SPAs):",
+            "paragraph" : "Create dynamic and fluid web experiences with SPAs, resulting in quicker and more interactive websites."
+        }, 
+        {
+            "boldContent" : "Artificial Intelligence (AI) Integration:",
+            "paragraph" : "Chatbots, recommendation engines, and personalized content delivery to enhance user engagement."
+        }],
+        "image" : "./src/assets/Group-768.png",
+        "alt" : "why us"
+    },
+    "whyUsSection" :{
+        "subHeading": "Why Us",
+        "heading":"We Created Brands That Boost Sales And Profits",
+        "paragraph":"At technisum, we genuinely think that by producing some of the best work currently available on the web, our team of accomplished designers, developers, and marketers are using their interests to good effect. Our work is what we are passionate about, and it shows.",
+        "card":[{
+            "image" : "./src/assets/solution-1.png",
+            "alt" : "creative idea",
+            "heading": "Creative Ideas",
+            "paragraph": "Purabitur massa tortor, ornare at mi sed luctus eleifend lorem."
+        }, 
+        {
+            "image" : "./src/assets/graphic-design-1.png",
+            "alt" : "awesome design",
+            "heading": "Awesome Design",
+            "paragraph": "In mollis consectetur pulvinar. Curabitur sed sagittis dui."
+        }, 
+        {
+            "image" : "./src/assets/feature-1.png",
+            "alt" : "beast features",
+            "heading": "Best Features",
+            "paragraph": "Nullam venenatis luctus fringilla. Morbi a pellentesque metus."
+        }, 
+        {
+            "image" : "./src/assets/concept-1.png",
+            "alt" : "easy solutions",
+            "heading": "Easy Solutions",
+            "paragraph": "Etiam porttitor bibendum egestas. Proin quis laoreet mauris."
+        }]
+    },
+    "ctaSection": {
+        "paragraph": "We Offer A Variety Of Software Solution Services,Including Platform Development, Custom Programme Creation, And IT Consulting. ",
+        "image" : "./src/assets/smart-home-gf21a64b6e_1920.png",
+        "alt" : "software solutions"  
+    },
+    "whyUsSecondSection" : {
+        "subHeading":"Why Us",
+        "heading":"It Goes Beyond Just A Name. It's An Assurance",
+        "image":"./src/assets/Group-1000001785.png",
+        "alt":"technisum",
+        "paragraph" : [{
+            "boldContent" : "",
+            "paragraph" : "We have a group of experts working to provide our customers with the solutions that are most appropriate for their businesses. Every solution is implemented following a thorough examination of the client’s requirements. "
+        }]
+    },
+    "threeColumnSection" : [{
+        "heading" : "Our Vision",
+        "paragraph" : "To create goods that are high-quality, affordable, simple to use, and include cutting-edge technology for the individual."
+    }, 
+    {
+        "heading" : "Our Mission",
+        "paragraph" : "With the goal of giving customers the best software solutions at a reasonable cost, Technisum was founded in."
+    }, 
+    {
+        "heading" : "Our Motto",
+        "paragraph" : "Our priority is practicing and focusing on details therefore we put the process first and express things with great authenticity"
+    }]
+}

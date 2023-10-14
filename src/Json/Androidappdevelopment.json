@@ -1,0 +1,61 @@
+{
+    "slider" : {
+        "heading" : "Crafting software for the world's largest mobile platform",
+        "paragraph" : "Design, code, test, and publish on Google Play.",
+        "image" : "",
+        "alt" : "android app development"
+    },
+    "firstSection" :{
+        "heading" : "Android App Development",
+        "paragraph" : "We are completely occupied with building portable Apps for the creative business and start-ups. ",
+        "image" : "",
+        "alt" : "android app development",
+        "order" : ""
+    },
+    "secondSection" : {
+        "heading" : "Android App Development",
+        "paragraph" : "we develop high-performing user-friendly iPhone mobile Application that ensures best compatibility with all iOS devices.",
+        "image" : "",
+        "alt" : "android app development",
+        "order" : ""
+    },
+    "thirdSection" : {
+        "heading" : "Flutter App Development",
+        "paragraph" : "Our Flutter mobile app development services are devised to help you create a multi-platform existence.",
+        "image" : "",
+        "alt" : "android app development",
+        "order" : ""
+    },
+    "whyuseapp":{
+        "heading":"Why Use App ",
+        "paragraph":"Send, recieve and pay bills anywhere in this world with one-click and fully secure payment method.",
+        "downloadimage": "",
+        "box": [{
+            "number": "32k",
+            "paragraph": "daily transactions",
+            "color" : ""
+        }, 
+        {
+            "number": "32k",
+            "paragraph": "daily transactions",
+            "color" : ""
+        }, 
+        {
+            "number": "2300+",
+            "paragraph": "positive Reviews",
+            "color" : ""
+        }, 
+        {
+            "number": "12b+",
+            "paragraph": "worth of transactions",
+            "color" : ""
+        }]
+    },
+    "cta":{
+        "heading" : "Join the App ",
+        "paragraph" : "Scan the QR code and get App and start your journey with us",
+        "image": "",
+        "alt" : "",
+        "order" : ""
+    }
+}
