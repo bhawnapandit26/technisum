@@ -1,0 +1,49 @@
+{
+    "slider": {
+        "heading": "The Best Dynamic Website Development company",
+        "paragraph": "It is crucial for website owners to maintain their sites updated in light of shifting technology, fashion, and consumer preferences. A dynamic website makes all of this simple to do. You can choose a website for your company at Technisum from a variety of templates. A dynamic website gives you the flexibility to alter it whenever you need to. They display different content on various pages, unlike static websites. Visitors never grow bored since they are always engaged in something.",
+        "image": "./src/assets/32.png",
+        "alt": "android app development",
+        "background-image": "./src/assets/Rectangle.png"
+    },
+    "leftImageSection": {
+        "image": "./src/assets/22.png",
+        "alt": "technisum",
+        "heading": "Website development",
+        "paragraph": "To develop beautiful material design with numerous dynamic UI components out of the box, we leverage sophisticated and responsive frameworks like Materialised / Bootstrap. Our developers, who are knowledgeable in the newest frameworks for CSS, SaaS, JavaScript, jQuery, and SVG Icon Library, make sure that your website provides a rich user experience."
+    },
+    "rightImageSection": {
+        "image": "./src/assets/21.png",
+        "alt": "technisum",
+        "heading": "Motion UI",
+        "paragraph": "Motion UI boosts website user engagement. It may contain a variety of components, including images, text, movies, and shapes. It is used in a variety of contexts, including user welcomes, navigation and transitions, system notifications, action results, etc."
+    },
+    "headings": {
+        "heading": "Web Design That Will Displace Your Competition!",
+        "subheading": "Dynamic websites, in contrast to static websites, offer a variety of design options. If your website is dynamic, being creative will come naturally to you. The theme, colours, text, and images would be simple to change. All of these actions only require a single click."
+    },
+    "cards": {
+        "card": [
+            {
+                "heading": "Attractive Web Designs",
+                "paragraph": "Dynamic websites, in contrast to static websites, offer a variety of design options. If your website is dynamic, being creative will come naturally to you. The theme, colours, text, and images would be simple to change. All of these actions only require a single click.",
+                "background": "#fff"
+            },
+            {
+                "heading": "Structured Database",
+                "paragraph": "We are aware that dynamic websites may contain a great deal of difficult coding. However, our programmers guarantee that a website is appropriately organised. In light of this, organised database connectivity makes it simpler to manage and change the website.",
+                "background": "#fff"
+            },
+            {
+                "heading": "Smooth Editing and Upgrades",
+                "paragraph": "Our dynamic website designing services are ideal for you if your website is blog-based and needs a tonne of content. We employ a streamlined information Management System (CMS) that makes it incredibly simple for users to update, edit, and publish new information.",
+                "background": "#fff"
+            },
+            {
+                "heading": "Professional Dynamic Websites",
+                "paragraph": "Dynamic websites stand out because, unlike static websites, they don't appear amateurish or awkward. You can order websites from us that are both interactive and aesthetically pleasing. We specialise in building cutting-edge websites that effectively promote your product or service.",
+                "background": "#fff"
+            }
+        ]
+    }
+}

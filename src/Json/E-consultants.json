@@ -1,0 +1,45 @@
+{
+    "slider": {
+        "heading": "Ecommerce Website Design Platforms",
+        "paragraph": "The perfect platform varies for each enterprise, and Technisum tailors solutions accordingly. Upon understanding your specific business model and functional needs, we proffer personalized recommendations for the optimum Content Management System (CMS).",
+        "image": "./src/assets/32.png",
+        "alt": "android app development",
+        "background-image": "./src/assets/Rectangle.png"
+    },
+    "rightSideImage-one" : {
+        "heading" : "Exploring WooCommerce",
+        "paragraph" : "WooCommerce claims the throne as the most sought-after ecommerce CMS. Boasting an array of out-of-the-box functionalities, it facilitates streamlined backend management and boasts robust support.",
+        "image" : "",
+        "alt" : ""
+    },
+    "leftSideImage-one" : {
+        "heading" : "Unveiling Shopify",
+        "paragraph" : "Shopify reigns as an immensely popular and user-friendly CMS. Its plethora of pre-installed functionalities simplifies the process of constructing and administering an online store. Effortless and rapid setup ensures a quick entry into the online selling sphere.",
+        "image" : "",
+        "alt" : ""
+    },
+    "rightSideImage-two" : {
+        "heading" : "Navigating Magento",
+        "paragraph" : "Technisum expertly guides you through the labyrinth of Magento's comprehensive functionalities, making it an ideal solution for expansive stores. Should you contemplate CMS migration, Technisum's support is at your disposal.",
+        "image" : "",
+        "alt" : ""
+    },
+    "leftSideImage-two" : {
+        "heading" : "Empowering Your Business with Custom eCommerce Development",
+        "paragraph" : "Embrace the realm of bespoke eCommerce development, where tailor-made excellence prevails over one-size-fits-all solutions.Technisum's craft is designed to distinguish your store from its rivals.",
+        "image" : "",
+        "alt" : ""
+    },
+    "rightSideImage-three" : {
+        "heading" : "Simplified ECommerce Management.",
+        "paragraph" : "For the zenith of ECommerce Web Design, Technisum is your ultimate destination. We offer budget-friendly, user-centric eCommerce website development, seamlessly integrated with the optimal CMS tailored to meet your distinct requirements. Our adept team of consultants is here at your disposal.",
+        "image" : "",
+        "alt" : ""
+    },
+    "rightSideImage-four" : {
+        "heading" : "Why should you choose Technisum?",
+        "paragraph" : "Experience the excellence of our web development service with stunning designs at fixed prices for your convenience. Backed by our guarantee and an experienced team that understands your needs, we create superior quality development. Using the latest technology and a proven methodology, we deliver customer satisfaction, no matter where you're located. Enjoy competitive pricing for designs that leave you fully satisfied as our valued customer.",
+        "image" : "",
+        "alt" : ""
+    }
+}

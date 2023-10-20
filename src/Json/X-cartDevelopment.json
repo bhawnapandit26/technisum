@@ -1,0 +1,55 @@
+{
+    "slider": {
+        "heading": "X-Cart Development",
+        "paragraph": "X-Cart Development from minor customizations to developing a full-fledged ecommerce store, we provide high-quality x-cart development solution.",
+        "image": "./src/assets/32.png",
+        "alt": "android app development",
+        "background-image": "./src/assets/Rectangle.png"
+    },
+    "headings-one": {
+        "heading": "X-cart Development",
+        "subheading": "Technisum, an innovative web architecture and development company, embraced E-commerce through x-cart. As India-based x-cart developers, we create appealing web designs and developments. With x-cart, we realize customers' online selling goals, serving as dedicated x-cart web developers across India. Our custom X-Cart services enable global audience reach. Expert developers design stunning X-Cart stores to your precise needs and brand standards. From tweaks to full-fledged eCommerce, our professionals migrate your store to the latest X-Cart version. Need guidance? Get a free consultation."
+    },
+    "headings-two": {
+        "heading": "We offer X-Cart Development Services",
+        "subheading": false
+    },
+    "headings-three": {
+        "heading": "Migration Solution",
+        "subheading": "Easily migrate between OpenCart platforms with the help of OpenCart Migration Solutions offered by our skilled developers."
+    },
+    "headings-four": {
+        "heading": "We Have Done It All",
+        "subheading": false
+    },
+    "cards": {
+        "card": [
+            {
+                "heading": "Fraud Management",
+                "paragraph": "Our robust fraud management system ensures a secure environment for your transactions, effectively safeguarding your business and customers from potential threats.",
+                "background": "#fff"
+            },
+            {
+                "heading": "Responsive & Mobile Commerce Ready",
+                "paragraph": "Our websites are designed to be responsive, providing seamless browsing experiences across various devices. With mobile commerce integration, you can tap into the growing mobile market.",
+                "background": "#fff"
+            },
+            {
+                "heading": "Multichannel Sales Strategy",
+                "paragraph": "Enhance customer engagement and boost sales by expanding your reach to platforms like Amazon, Pinterest, and Facebook. Our tailored strategies maximize your visibility in these diverse markets.",
+                "background": "#fff"
+            },
+            {
+                "heading": "Multi-Channel Shopping Cart",
+                "paragraph": "Amplify your presence by extending your sales to eBay and Amazon. Our multi-channel shopping cart empowers you to capture a wider audience and increase your sales opportunities.",
+                "background": "#fff"
+            }
+        ]
+    },
+    "rightImageSection": {
+        "image": "./src/assets/21.png",
+        "alt": "technisum",
+        "heading": "Customers Rave About Us",
+        "paragraph": "Our customers are delighted with their collaboration experience with us. I've worked closely with Rave on our Magento Enterprise e-Commerce site. Their teams delivered a tailored solution on time and within budget. The new site's success is evident in steady year-over-year growth in online sales. If you're after a partner, not just a vendor, the Rave team is your ideal choice."
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "slider": {
+        "heading": "Technisum Magento Ecommerce",
+        "paragraph": "Experience the power of Technisum's intuitive, user-friendly Magento web design - a driving force for engagement and propelling business growth.",
+        "image": "./src/assets/32.png",
+        "alt": "android app development",
+        "background-image": "./src/assets/Rectangle.png"
+    },
+    "leftSideImageSection":{
+        "heading": "Customization, Technisum-Style",
+        "paragraph" : "A single Magento 2 store can be fortified with an array of third-party solutions, including extensions, themes, payment methods, CRMs, and more. Technisum ensures seamless integration of required extensions into your system through our compatibility customization service.",
+        "image" : "",
+        "alt" : ""
+    },
+    "rightSideImageSection" : {
+        "heading": "Confronting a Magento Hurdle? Technisum to the Rescue!",
+        "paragraph" : "Technisum comprehends the intricacies of your eCommerce business challenges within Magento. Our dedicated Certified Magento Developer is at your service, ready to walk you through step-by-step solutions. Schedule a call now and avail a Free Consultation on overcoming the challenges you're facing, and enhancing or launching your Magento store under Technisum's guidance.",
+        "image" : "",
+        "alt" : ""
+    },
+    "headings": {
+        "heading": "Dreaming of a Unique Website Feature?",
+        "subheading": "Technisum is just a form submission away!"
+    },
+    "cta" : {
+        "heading" : "Reach out to our skilled developers now for personalized assistance!",
+        "image" : "",
+        "alt" : ""
+    }
+}

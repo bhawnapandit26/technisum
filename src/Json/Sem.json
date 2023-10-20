@@ -1,0 +1,26 @@
+{
+    "slider": {
+        "heading": "Taking Digital Services to New Heights!",
+        "paragraph": "Technisum is at the forefront of delivering impeccable digital experiences. Our expertise lies in crafting user-friendly designs and marketing solutions that are renowned for their exceptional efficiency.",
+        "image": "./src/assets/32.png",
+        "alt": "android app development",
+        "background-image": "./src/assets/Rectangle.png"
+    },
+    "cards" : [{
+        "heading" : "Freelancer",
+        "paragraph" : "If you're an independent professional looking for opportunities to showcase your skills and contribute to various projects, our platform provides an ideal environment. As a freelancer, you can connect with businesses and individuals seeking your expertise, collaborating on projects that match your skills and interests.",
+        "button" : "Ver planes",
+        "background" : ""
+    }, {
+        "heading" : "Small Teams",
+        "paragraph" : "For startups, students, or small teams of up to 3 people, our tailored spaces of 20 square meters offer an ideal workspace to support your growth. These spaces provide a conducive environment for effective teamwork, idea sharing, and collaborative efforts, enabling your team to flourish and accomplish your goals. More than 5? Are you part of a team larger than 5 members? We have the perfect solution for you. Our office spaces of 40 and 80 square meters are designed to accommodate larger teams, providing the right infrastructure and amenities to foster productivity and innovation.",
+        "button" : "Ver planes",
+        "background" : ""
+    }],
+    "leftImageSection": {
+        "image": "./src/assets/21.png",
+        "alt": "technisum",
+        "heading": "The Core",
+        "paragraph": "A focal point of our philosophy, The Core embodies the fundamental essence that defines us. Guided by this principle, we navigate the complexities of life with unwavering commitment. Committed to integrity, innovation, and unique solutions, The Core underpins our dedication to delivering exceptional experiences through superior products and impeccable service. It resonates with clients, partners, and the world, driving us forward.Our Values are akin to the stability of a core structure, providing strength and resilience. Grounded in integrity, growth, and customer dedication, they shape our identity. Amid the dynamic landscape of imperdiet, we adapt, thrive, and remain steadfast in our pursuit of excellence. Upholding these values, we tackle challenges and offer innovative solutions that meet customer needs. This core philosophy guides our journey, fostering meaningful relationships and lasting impact."
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "slider": {
+        "heading": "Get essential customer insights",
+        "paragraph": "Get a complete understanding of your customers across devices and platforms. Google Analytics gives you the tools, free of charge, to understand the customer journey and improve marketing ROI.",
+        "image": "./src/assets/32.png",
+        "alt": "android app development",
+        "background-image": "./src/assets/Rectangle.png"
+    },
+    "cards": {
+        "card": [
+            {
+                "heading": "Fraud Management",
+                "paragraph": "Our robust fraud management system ensures a secure environment for your transactions, effectively safeguarding your business and customers from potential threats.",
+                "background": "#fff"
+            },
+            {
+                "heading": "Responsive & Mobile Commerce Ready",
+                "paragraph": "Our websites are designed to be responsive, providing seamless browsing experiences across various devices. With mobile commerce integration, you can tap into the growing mobile market.",
+                "background": "#fff"
+            },
+            {
+                "heading": "Multichannel Sales Strategy",
+                "paragraph": "Enhance customer engagement and boost sales by expanding your reach to platforms like Amazon, Pinterest, and Facebook. Our tailored strategies maximize your visibility in these diverse markets.",
+                "background": "#fff"
+            },
+            {
+                "heading": "Multi-Channel Shopping Cart",
+                "paragraph": "Amplify your presence by extending your sales to eBay and Amazon. Our multi-channel shopping cart empowers you to capture a wider audience and increase your sales opportunities.",
+                "background": "#fff"
+            },
+            {
+                "heading": "Fraud Management",
+                "paragraph": "Our robust fraud management system ensures a secure environment for your transactions, effectively safeguarding your business and customers from potential threats.",
+                "background": "#fff"
+            },
+            {
+                "heading": "Responsive & Mobile Commerce Ready",
+                "paragraph": "Our websites are designed to be responsive, providing seamless browsing experiences across various devices. With mobile commerce integration, you can tap into the growing mobile market.",
+                "background": "#fff"
+            },
+            {
+                "heading": "Multichannel Sales Strategy",
+                "paragraph": "Enhance customer engagement and boost sales by expanding your reach to platforms like Amazon, Pinterest, and Facebook. Our tailored strategies maximize your visibility in these diverse markets.",
+                "background": "#fff"
+            },
+            {
+                "heading": "Multi-Channel Shopping Cart",
+                "paragraph": "Amplify your presence by extending your sales to eBay and Amazon. Our multi-channel shopping cart empowers you to capture a wider audience and increase your sales opportunities.",
+                "background": "#fff"
+            },
+            {
+                "heading": "Fraud Management",
+                "paragraph": "Our robust fraud management system ensures a secure environment for your transactions, effectively safeguarding your business and customers from potential threats.",
+                "background": "#fff"
+            },
+            {
+                "heading": "Responsive & Mobile Commerce Ready",
+                "paragraph": "Our websites are designed to be responsive, providing seamless browsing experiences across various devices. With mobile commerce integration, you can tap into the growing mobile market.",
+                "background": "#fff"
+            },
+            {
+                "heading": "Multichannel Sales Strategy",
+                "paragraph": "Enhance customer engagement and boost sales by expanding your reach to platforms like Amazon, Pinterest, and Facebook. Our tailored strategies maximize your visibility in these diverse markets.",
+                "background": "#fff"
+            },
+            {
+                "heading": "Multi-Channel Shopping Cart",
+                "paragraph": "Amplify your presence by extending your sales to eBay and Amazon. Our multi-channel shopping cart empowers you to capture a wider audience and increase your sales opportunities.",
+                "background": "#fff"
+            },
+            {
+                "heading": "Fraud Management",
+                "paragraph": "Our robust fraud management system ensures a secure environment for your transactions, effectively safeguarding your business and customers from potential threats.",
+                "background": "#fff"
+            },
+            {
+                "heading": "Responsive & Mobile Commerce Ready",
+                "paragraph": "Our websites are designed to be responsive, providing seamless browsing experiences across various devices. With mobile commerce integration, you can tap into the growing mobile market.",
+                "background": "#fff"
+            },
+            {
+                "heading": "Multichannel Sales Strategy",
+                "paragraph": "Enhance customer engagement and boost sales by expanding your reach to platforms like Amazon, Pinterest, and Facebook. Our tailored strategies maximize your visibility in these diverse markets.",
+                "background": "#fff"
+            }
+        ]
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "slider": {
+        "heading": "UI/UX design & development",
+        "paragraph": "At Technisum, we strive hard to grow incredibly practical B2B applications with improved ease of use. We unequivocally guess that everything influencing the end client is a critical piece of the plan cycle. Therefore, we look to broaden a smooth and smart end client experience by noticing a client driven methodology towards creating items which are easy to use, clean, notable and expandable.",
+        "image": "./src/assets/32.png",
+        "alt": "android app development",
+        "background-image": "./src/assets/Rectangle.png"
+    },
+    "headings" : {
+        "heading" : "Our UI/UX services",
+        "paragraphOne" : "Our skillful group of originators and engineers work in cooperative energy to foster hearty and adaptable client encounters to boost the ROI and achieve business objectives. Our viability and uniqueness of the last deliverable stems from the cycle we embrace. We notice the accompanying system for each item we create.",
+        "paragraphTwo" : "-Understanding the requirements",
+        "paragraphThree" : "Our cycle starts with understanding the essential prerequisites of our customer. We endeavor to find the reason for the item, the goals of our customer's business, the interest group and their assumptions.",
+        "list" : ["Interviews", "Business Understanding", "Gap Assessment"]
+        
+    },
+    "sahdowCards": [
+        {
+            "image": "./src/assets/digital-marketing-1.png",
+            "alt": "digital marketing",
+            "heading": "Digital PR & Link-Building",
+            "paragraph": "Boost your online presence through effective PR and link-building techniques. We help you build connections and authority in the digital landscape.",
+            "button": "Read More"
+        },
+        {
+            "image": "./src/assets/coding-1.png",
+            "alt": "coding",
+            "heading": "Link Building & Content",
+            "paragraph": "Elevate your online influence by employing impactful link-building strategies and crafting compelling content. We focus on enhancing your website's reputation and relevance.",
+            "button": "Read More"
+        },
+        {
+            "image": "./src/assets/app-development-1.png",
+            "alt": "app development",
+            "heading": "Maps Search Optimization",
+            "paragraph": "Optimize your visibility in local searches with precise maps search optimization. We ensure that your business gains prominence in local search results.",
+            "button": "Read More"
+        },
+        {
+            "image": "./src/assets/web-design-1.png",
+            "alt": "web design",
+            "heading": "Big Data Analysis",
+            "paragraph": "Unleash the potential of big data to gain valuable insights that drive informed decision-making. Our data analysis empowers you to make strategic choices for your business.",
+            "button": "Read More"
+        },
+        {
+            "image": "./src/assets/ui.png",
+            "alt": "ui",
+            "heading": "Custom Email Design",
+            "paragraph": "Create engaging email experiences with personalized designs that resonate with your audience. Our customized email designs enhance your brand communication.",
+            "button": "Read More"
+        },
+        {
+            "image": "./src/assets/technical-support.png",
+            "alt": "technical support",
+            "heading": "Monitoring Ranking",
+            "paragraph": "Efficiently track and improve your website's rankings with our comprehensive monitoring services. We ensure your website climbs the ranks and maintains a strong online presence.",
+            "button": "Read More"
+        },
+        {
+            "image": "./src/assets/technical-support.png",
+            "alt": "technical support",
+            "heading": "Code Optimization",
+            "paragraph": "Enhance your website's performance through streamlined and efficient code optimization. Our techniques improve loading times and user experience.",
+            "button": "Read More"
+        },
+        {
+            "image": "./src/assets/technical-support.png",
+            "alt": "technical support",
+            "heading": "NAP Syndication",
+            "paragraph": "Ensure consistent NAP (Name, Address, Phone Number) data across various online platforms. We help maintain accurate business information across the web",
+            "button": "Read More"
+        }
+    ]
+}

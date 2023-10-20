@@ -58,6 +58,10 @@ p {
   line-height: 2.25rem;
   margin: 0;
 }
+a{
+  text-decoration: none;
+  color: var(--primary-font-color);
+}
 
 .mainHeading {
   font-size: 2rem;
@@ -69,6 +73,18 @@ p {
   font-size: 1.3rem;
   color: var(--primary-font-color);
   margin: 0;
+}
+
+.pageButton {
+  background-color: var(--purple);
+  font-size: 1rem;
+  font-weight: 500;
+  color: #fff;
+  padding: 0.875rem 2.8125rem;
+  border-radius: 1.875rem;
+}
+.pageButton:hover{
+  box-shadow: 0px 0px 10px #a38dd2;
 }
 
 /*header CSS*/
@@ -204,12 +220,121 @@ a.header-btn:hover {
   padding: 7rem 0;
 }
 
+/*Genral Slider*/
 
+.genralSlider {
+  padding: 11rem 0 14rem;
+  background-size: auto;
+    background-repeat: no-repeat;
+    background-position: 100% 0%;
+}
 
+.genralsliderHeading {
+  font-size: 3.5rem;
+  font-weight: 600;
+  line-height: 4.4rem;
+  padding-top: 2rem;
+}
+
+p.genralsliderPara {
+  font-size: 1.75rem;
+  padding: 3rem 0;
+}
+
+/*Why use app*/
+.whyuseapp {
+  background-color: #FFF5FD;
+  padding: 8rem 0;
+}
+.whyuseapp a {
+  background-color: #000;
+  display: inline-flex;
+  border-radius: 1rem;
+  align-items: center;
+  padding: 0.5rem 1rem;
+  text-decoration: none;
+  cursor: pointer;
+}
+.whyuseapp a div {
+  color: #fff;
+  font-size: 1.25rem;
+  line-height: 1.7rem;
+}
+.whyuseapp a div span {
+  font-size: 2rem;
+}
+.whyuseappblock>div {
+  padding: 0.3rem;
+}
+.whyuseappblock>div>div {
+  padding: 4rem 1.7rem;
+  border-radius: 1.25rem;
+  text-align: center;
+}
+.whyuseappblock .main-heading {
+  font-size: 4rem;
+  font-weight: 700;
+}
+.whyuseappblock .sub-heading {
+  font-size: 1.37rem;
+}
+
+/*purple dot*/
+.cardpurpledot div {
+  width: 2rem;
+  height: 2rem;
+  background-color: #A38DD2;
+  border-radius: 50%;
+}
+.cardpurpledot {
+  box-shadow: 12px 12px 100px 12px rgba(68, 68, 68, 0.08);
+  border-radius: 0.63rem;
+  padding: 2rem;
+  height: 100%;
+}
+
+/*cta card*/
+.cta-card {
+  padding: 0.625rem 3.75rem 0.625rem 0.5rem;
+  background: linear-gradient(90deg, rgba(163, 141, 210, 0.20) 0%, rgba(163, 141, 210, 0.00) 100%);
+  font-size: 2rem;
+  font-weight: 600;
+  border-radius: 0.3rem;
+  line-height: 4.375rem;
+}
 /**********************************************Responsive CSS************************************************/
-@media (min-width: 1700px) {
-  .container {
-    max-width: 1632px;
+
+@media (min-width : 480px) {
+  .sliderHeading {
+    font-size: 4rem;
+    line-height: 5.25rem;
+  }
+
+  .mainHeading {
+    font-size: 3rem;
+    line-height: 3.8rem;
+  }
+}
+
+@media (min-width: 768px) {
+  h2 {
+    font-size: 3.8rem;
+    line-height: 4.8rem;
+  }
+
+  h3 {
+    font-size: 2.6rem;
+    line-height: 3.15rem;
+  }
+
+  .mainHeading {
+    font-size: 4rem;
+    font-weight: 600;
+    line-height: 4.8rem;
+  }
+
+  .homeCardSectionTwo:nth-child(2) {
+    margin-top: 4rem;
   }
 }
 
@@ -230,36 +355,43 @@ a.header-btn:hover {
   }
 }
 
-@media (min-width: 768px) {
-  h2 {
-    font-size: 4rem;
-    line-height: 4.8rem;
+@media (min-width: 1200px){
+  .genralSlider {
+    padding: 11rem 0 14rem;
+    background-size: 66%;
   }
-
-  h3 {
-    font-size: 2.6rem;
-    line-height: 3.15rem;
+  .genralsliderHeading {
+    max-width: 43rem;
   }
-
-  .mainHeading {
-    font-size: 4rem;
-    font-weight: 600;
-    line-height: 4.8rem;
-  }
-
-  .homeCardSectionTwo:nth-child(2) {
-    margin-top: 4rem;
+  .whyuseappblock>div>div {
+    padding: 4rem 1.3rem;
   }
 }
 
-@media (min-width : 480px) {
-  .sliderHeading {
-    font-size: 4rem;
-    line-height: 5.25rem;
+@media (min-width : 1400px){
+  .whyuseappblock .main-heading {
+    font-size: 5rem;
   }
-
-  .mainHeading {
-    font-size: 3rem;
-    line-height: 3.8rem;
+  .whyuseappblock>div>div {
+    padding: 4rem 2rem;
   }
 }
+
+@media (min-width: 1700px) {
+  .container {
+    max-width: 1632px;
+  }
+
+  .genralSlider {
+    padding: 14rem 0 11rem;
+    background-size: auto;
+  }
+  .genralsliderHeading{
+    padding-top: 6rem;
+  }
+}
+
+
+
+
+

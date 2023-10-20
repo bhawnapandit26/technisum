@@ -1,61 +1,68 @@
 {
-    "slider" : {
-        "heading" : "Crafting software for the world's largest mobile platform",
-        "paragraph" : "Design, code, test, and publish on Google Play.",
-        "image" : "",
-        "alt" : "android app development"
+    "slider": {
+        "heading": "Crafting software for the world's largest mobile platform",
+        "paragraph": "Design, code, test, and publish on Google Play.",
+        "image": "./src/assets/android-app-dev-slider.png",
+        "alt": "android app development",
+        "background-image": "./src/assets/Rectangle.png"
     },
-    "firstSection" :{
-        "heading" : "Android App Development",
-        "paragraph" : "We are completely occupied with building portable Apps for the creative business and start-ups. ",
-        "image" : "",
-        "alt" : "android app development",
-        "order" : ""
+    "firstSection": {
+        "heading": "Android App Development",
+        "paragraph": "We are completely occupied with building portable Apps for the creative business and start-ups. ",
+        "image": "./src/assets/25.png",
+        "alt": "android app development"
     },
-    "secondSection" : {
-        "heading" : "Android App Development",
-        "paragraph" : "we develop high-performing user-friendly iPhone mobile Application that ensures best compatibility with all iOS devices.",
-        "image" : "",
-        "alt" : "android app development",
-        "order" : ""
+    "secondSection": {
+        "heading": "Android App Development",
+        "paragraph": "we develop high-performing user-friendly iPhone mobile Application that ensures best compatibility with all iOS devices.",
+        "image": "./src/assets/26.png",
+        "alt": "android app development"
     },
-    "thirdSection" : {
-        "heading" : "Flutter App Development",
-        "paragraph" : "Our Flutter mobile app development services are devised to help you create a multi-platform existence.",
-        "image" : "",
-        "alt" : "android app development",
-        "order" : ""
+    "thirdSection": {
+        "heading": "Flutter App Development",
+        "paragraph": "Our Flutter mobile app development services are devised to help you create a multi-platform existence.",
+        "image": "./src/assets/27.png",
+        "alt": "android app development"
     },
-    "whyuseapp":{
-        "heading":"Why Use App ",
-        "paragraph":"Send, recieve and pay bills anywhere in this world with one-click and fully secure payment method.",
-        "downloadimage": "",
-        "box": [{
-            "number": "32k",
-            "paragraph": "daily transactions",
-            "color" : ""
-        }, 
-        {
-            "number": "32k",
-            "paragraph": "daily transactions",
-            "color" : ""
-        }, 
-        {
-            "number": "2300+",
-            "paragraph": "positive Reviews",
-            "color" : ""
-        }, 
-        {
-            "number": "12b+",
-            "paragraph": "worth of transactions",
-            "color" : ""
-        }]
+    "whyuseapp": {
+        "heading": "Why Use App ",
+        "paragraph": "Send, recieve and pay bills anywhere in this world with one-click and fully secure payment method.",
+        "button": {
+            "image": "./src/assets/google-play-store.png",
+            "alt": "",
+            "text": "Download on the",
+            "span": "Google Play"
+        },
+        "box": [
+            {
+                "number": "32k",
+                "paragraph": "daily transactions",
+                "color": "#A38DD2"
+            },
+            {
+                "number": "32k",
+                "paragraph": "daily transactions",
+                "color": "#F9C1EB"
+            },
+            {
+                "number": "2300+",
+                "paragraph": "positive Reviews",
+                "color": "#F9C1EB"
+            },
+            {
+                "number": "12b+",
+                "paragraph": "worth of transactions",
+                "color": "#A38DD2"
+            }
+        ]
     },
-    "cta":{
-        "heading" : "Join the App ",
-        "paragraph" : "Scan the QR code and get App and start your journey with us",
-        "image": "",
-        "alt" : "",
-        "order" : ""
+    "cta": {
+        "heading": "Join the App ",
+        "paragraph": "Scan the QR code and get App and start your journey with us",
+        "image": "./src/assets/40.png",
+        "alt": "",
+        "button": "Explore More",
+        "card": false,
+        "background": "#fff"
     }
 }

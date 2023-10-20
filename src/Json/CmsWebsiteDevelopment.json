@@ -1,0 +1,66 @@
+{
+    "slider": {
+        "heading": "CMS Website Development",
+        "paragraph": "Welcome to our CMS website development services! We specialize in creating powerful and user-friendly content management systems that empower businesses to take control of their online presence. With our expertise, you can enjoy the flexibility and convenience of managing your website's content effortlessly.",
+        "image": "./src/assets/32.png",
+        "alt": "android app development",
+        "background-image": "./src/assets/Rectangle.png"
+    },
+    "headings" : {
+        "heading" : "Our CMS Website Development Services",
+        "subheading" : false
+    },
+    "sahdowCards": [
+        {
+            "image": "./src/assets/digital-marketing-1.png",
+            "alt": "digital marketing",
+            "heading": "Customized CMS Solutions",
+            "paragraph": "We understand that every business has unique requirements. Our team of experienced developers will tailor a content management system specifically for your needs. Whether you require a simple blogging platform or a complex e-commerce website, we've got you covered.",
+            "button": "Read More"
+        },
+        {
+            "image": "./src/assets/coding-1.png",
+            "alt": "coding",
+            "heading": "User-Friendly Interface",
+            "paragraph": "Our CMS platforms feature intuitive and user-friendly interfaces, making it easy for you to update and manage your website content. You don't need any technical expertise to add pages, edit text, upload images, or create engaging blog posts.",
+            "button": "Read More"
+        },
+        {
+            "image": "./src/assets/app-development-1.png",
+            "alt": "app development",
+            "heading": "Responsive Design",
+            "paragraph": "In today's mobile-driven world, having a responsive website is crucial. Our CMS websites are designed to be fully responsive, ensuring that your site looks great and functions flawlessly on all devices, including desktops, tablets, and smartphones.",
+            "button": "Read More"
+        },
+        {
+            "image": "./src/assets/web-design-1.png",
+            "alt": "web design",
+            "heading": "SEO-Friendly Architecture",
+            "paragraph": "Our experts follow best practices to create a search engine-friendly architecture, allowing your website to rank higher in search engine results. You'll have control over crucial SEO elements, such as meta tags, URLs, and keywords, enabling you to optimize your content for maximum visibility.",
+            "button": "Read More"
+        },
+        {
+            "image": "./src/assets/ui.png",
+            "alt": "ui",
+            "heading": "Scalability and Growth",
+            "paragraph": "Our CMS solutions are scalable, allowing you to easily add new features and functionalities to meet your evolving needs. Whether it's integrating e-commerce capabilities, creating a membership portal, or expanding your blog, our CMS platforms can grow with your business.",
+            "button": "Read More"
+        },
+        {
+            "image": "./src/assets/technical-support.png",
+            "alt": "technical support",
+            "heading": "Seamless Third-Party Integrations",
+            "paragraph": "Our CMS platforms seamlessly integrate with popular applications, such as customer relationship management (CRM) systems, email marketing tools, payment gateways, and more. This integration simplifies your workflow and enhances efficiency.",
+            "button": "Read More"
+        }
+    ],
+    "ctaRightImage": {
+        "heading": "CTA",
+        "paragraph": "Experience the convenience and control of managing your website effortlessly with our CMS website development services. Contact us today to discuss your project requirements and let us create a robust, user-friendly, and scalable CMS platform tailored to your business needs.",
+        "image": "./src/assets/41.png",
+        "alt": "technisum",
+        "button": "Let's Get Started",
+        "background": "#FFF5FD",
+        "card": false
+    }
+}

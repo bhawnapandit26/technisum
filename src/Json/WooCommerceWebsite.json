@@ -1,0 +1,26 @@
+{
+    "slider": {
+        "heading": "WooCommerce Website Design for Your Online Store",
+        "paragraph": "Elevate your online presence with a cutting-edge WooCommerce website design. WooCommerce, a robust ecommerce extension for WordPress, empowers businesses to effortlessly showcase and sell products with elegance.",
+        "image": "./src/assets/32.png",
+        "alt": "android app development",
+        "background-image": "./src/assets/Rectangle.png"
+    },
+    "heading-one": {
+        "heading" : "Claim Your Complimentary Ecommerce Website Audit!",
+        "subheading": false
+    },
+    "image" : "",
+    "heading-two"  : {
+        "heading" : "When Technisum sets up your online store, we handle the following",
+        "subheading": "While WooCommerce can be effortlessly integrated into your WordPress website within minutes, partnering with a developer like Technisum guarantees optimal setup for success. This is particularly crucial if you're establishing your site from the ground up."
+    },
+    "heading-three" : {
+        "heading" : "Personalize Your Experience",
+        "subheading": "Just as a Magento 2 store can leverage an array of third-party solutions such as extensions, themes, payment methods, and CRMs, Technisum ensures smooth integration of necessary extensions into your system through our compatibility customization service."
+    },
+    "heading-four" : {
+        "heading" : "Personalize Your Experience",
+        "subheading": "Technisum comprehends the nuances of your WooCommerce journey. Our Certified WooCommerce Developers offer tailored assistance to ensure a flawless experience. Reach out for a Free Consultation to overcome challenges, enhance your store, or embark on a new WooCommerce adventure under Technisum's guidance."
+    }
+}

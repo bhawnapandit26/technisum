@@ -1,0 +1,55 @@
+{
+    "slider": {
+        "heading": "The Best Dynamic Website Development company",
+        "paragraph": "It is crucial for website owners to maintain their sites updated in light of shifting technology, fashion, and consumer preferences. A dynamic website makes all of this simple to do. You can choose a website for your company at Technisum from a variety of templates. A dynamic website gives you the flexibility to alter it whenever you need to. They display different content on various pages, unlike static websites. Visitors never grow bored since they are always engaged in something.",
+        "image": "./src/assets/32.png",
+        "alt": "android app development",
+        "background-image": "./src/assets/Rectangle.png"
+    },
+    "headings": {
+        "heading": "Why Choose Technisum?",
+        "subheading": "Pick a partner who completes the task. There are numerous benefits to choosing us, but we'll only highlight six."
+    },
+    "cards": {
+        "card": [
+            {
+                "heading": "Certified WordPress Developers",
+                "paragraph": "Our professional WordPress design and development team has years of expertise and is enthusiastic about what they do. Our team gives each project its all, going above and beyond your expectations.",
+                "background": "#fff"
+            },
+            {
+                "heading": "Competitive Pricing",
+                "paragraph": "You may get the best WordPress development services from us at affordable prices. Regardless of the scale, scope, or size of the project, our objective is to produce a ROI.",
+                "background": "#fff"
+            },
+            {
+                "heading": "Rich Experience",
+                "paragraph": "We work in a way that is customer-focused, unlike other companies. Instead of imposing what we know, we work hard to gain a thorough grasp of your needs and your company's objectives so that we can provide you the most creative solutions and get you the outcomes you want.",
+                "background": "#fff"
+            },
+            {
+                "heading": "Customer-Focused Work Approach",
+                "paragraph": "We work in a way that is customer-focused, unlike other companies. Instead of imposing what we know, we work hard to gain a thorough grasp of your needs and your company's objectives so that we can provide you with the most creative solutions and get you the outcomes you want.",
+                "background": "#fff"
+            }
+        ]
+    },
+    "ctaLeftImage": {
+        "heading": "Hire WordPress Developers",
+        "paragraph": "We are able to offer you WordPress solutions that can boost the success of your company and give it a long-lasting competitive advantage thanks to the ideal combination of our extensive knowledge, skill, access to the newest tools, and creative flair.",
+        "image": "./src/assets/41.png",
+        "alt": "technisum",
+        "button": "Ask for a Quote",
+        "background": "#FFF5FD",
+        "card": false
+    },
+    "ctaRightImage": {
+        "heading": "Grow your agency's digital presence",
+        "paragraph": "In order to create scalable and safe websites, our WordPress developers adhere to clean and clear code standards. As a result, committed project managers assist you with efficient allocation of responsibility for your WordPress development services. You can choose a project-based approach or manage your projects on your own by hiring staff members using our dedicated resources model.",
+        "image": "./src/assets/41.png",
+        "alt": "technisum",
+        "button": "Contact Us Now",
+        "background": "#FFF5FD",
+        "card": false
+    }
+}

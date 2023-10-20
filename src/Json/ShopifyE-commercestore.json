@@ -1,0 +1,47 @@
+{
+    "slider": {
+        "heading": "Build your ecommerce website",
+        "paragraph": "The entire point of shopping online is to avoid the hassle to go to shopping and have alot of problems while going in there. Sometimes, you will just stuck in the traffic, or sometime you'll not find the expected product which you need. Here, in Technisum, we will guide you to bring costumers, as well as a hassle free online selling experience. Our experts will give you a 24/7 service and will figure out every aspect of bringing your business online.",
+        "image": "./src/assets/32.png",
+        "alt": "android app development",
+        "background-image": "./src/assets/Rectangle.png"
+    },
+    "sectionOne": {
+        "heading": "Your ecommerce website in 5 Steps",
+        "paragraph": [
+            {
+                "heading": "Design effortlessly",
+                "para": "Drag and drop your ecommerce website to life.If you have coding experience, you'll never need it."
+            },
+            {
+                "heading": "Add products",
+                "para": "Add or import your products, including descriptions, specifications, and images."
+            },
+            {
+                "heading": "Showcase them with care",
+                "para": "Organize your products into categories and collections. When you make it easy for customers to find them, you make it easier to sell them."
+            }
+        ],
+        "image" : "",
+        "alt" : ""
+    },
+    "sectionTwo": {
+        "heading": "Your online store is live. Now what?",
+        "paragraph": [
+            {
+                "heading": "Orders first",
+                "para": "Effortlessly manage the entire order process - from creation to delivery - all within a single screen, ensuring efficient tracking and fulfillment for multiple orders."
+            },
+            {
+                "heading": "Add products",
+                "para": "Diversify your offerings by seamlessly adding new products to your inventory. Manage everything, from creation to delivery, within a single user-friendly interface."
+            },
+            {
+                "heading": "Showcase them with care",
+                "para": "Enhance customer experience by categorizing and grouping your products into well-organized categories and collections. Simplify the buying journey, making it not only convenient but also effective in boosting sales."
+            }
+        ],
+        "image" : "",
+        "alt" : ""
+    }
+}

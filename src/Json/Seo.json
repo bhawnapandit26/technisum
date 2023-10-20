@@ -1,0 +1,104 @@
+{
+    "slider": {
+        "heading": "Sales Optimization & Data Analysis",
+        "paragraph": "At Technisum, our focus on Sales Optimization and Data Analysis is unwavering. We deliver high-quality Search Engine Optimization strategies crafted by our dedicated SEO specialists, guaranteeing optimal lead generation for your business. Beyond excelling in Social Media Marketing, we recognize the individual essence of each business, demanding a custom approach. In the dynamic landscape of online media, diverse interactions and distinct strategies are pivotal for the success of every business type.",
+        "image": "./src/assets/32.png",
+        "alt": "android app development",
+        "background-image": "./src/assets/Rectangle.png"
+    },
+    "headings-one": {
+        "heading": "Full-Service Digital Marketing Agency",
+        "subheading": "We offer comprehensive digital marketing services that cover every aspect. Our expertise encompasses a wide range, from web design to marketing strategies, ensuring a complete package for your needs."
+    },
+    "sahdowCards": [
+        {
+            "image": "./src/assets/digital-marketing-1.png",
+            "alt": "digital marketing",
+            "heading": "Digital PR & Link-Building",
+            "paragraph": "Boost your online presence through effective PR and link-building techniques. We help you build connections and authority in the digital landscape.",
+            "button": "Read More"
+        },
+        {
+            "image": "./src/assets/coding-1.png",
+            "alt": "coding",
+            "heading": "Link Building & Content",
+            "paragraph": "Elevate your online influence by employing impactful link-building strategies and crafting compelling content. We focus on enhancing your website's reputation and relevance.",
+            "button": "Read More"
+        },
+        {
+            "image": "./src/assets/app-development-1.png",
+            "alt": "app development",
+            "heading": "Maps Search Optimization",
+            "paragraph": "Optimize your visibility in local searches with precise maps search optimization. We ensure that your business gains prominence in local search results.",
+            "button": "Read More"
+        },
+        {
+            "image": "./src/assets/web-design-1.png",
+            "alt": "web design",
+            "heading": "Big Data Analysis",
+            "paragraph": "Unleash the potential of big data to gain valuable insights that drive informed decision-making. Our data analysis empowers you to make strategic choices for your business.",
+            "button": "Read More"
+        },
+        {
+            "image": "./src/assets/ui.png",
+            "alt": "ui",
+            "heading": "Custom Email Design",
+            "paragraph": "Create engaging email experiences with personalized designs that resonate with your audience. Our customized email designs enhance your brand communication.",
+            "button": "Read More"
+        },
+        {
+            "image": "./src/assets/technical-support.png",
+            "alt": "technical support",
+            "heading": "Monitoring Ranking",
+            "paragraph": "Efficiently track and improve your website's rankings with our comprehensive monitoring services. We ensure your website climbs the ranks and maintains a strong online presence.",
+            "button": "Read More"
+        },
+        {
+            "image": "./src/assets/technical-support.png",
+            "alt": "technical support",
+            "heading": "Code Optimization",
+            "paragraph": "Enhance your website's performance through streamlined and efficient code optimization. Our techniques improve loading times and user experience.",
+            "button": "Read More"
+        },
+        {
+            "image": "./src/assets/technical-support.png",
+            "alt": "technical support",
+            "heading": "NAP Syndication",
+            "paragraph": "Ensure consistent NAP (Name, Address, Phone Number) data across various online platforms. We help maintain accurate business information across the web",
+            "button": "Read More"
+        }
+    ],
+    "formSection" : {
+        "heading" : "ANALYSIS",
+        "subheading" : "FREE SEO",
+        "paragraph": "At Technisum, our expert Search Engine Optimization Company is here to elevate your brand's potential, generate inquiries, and set you apart from the competition. While most business owners are familiar with Search Engine Optimization, only a few are adopting it as a strategy due to the time investment it requires."
+    },
+    "headings-two": {
+        "heading": "Latest News",
+        "subheading": "Stay informed about the most recent developments and emerging trends. Keep up to date with the evolving landscape to make informed decisions for your business."
+    },
+    "cards": {
+        "card": [
+            {
+                "heading": "Fraud Management",
+                "paragraph": "Our robust fraud management system ensures a secure environment for your transactions, effectively safeguarding your business and customers from potential threats.",
+                "background": "#fff"
+            },
+            {
+                "heading": "Responsive & Mobile Commerce Ready",
+                "paragraph": "Our websites are designed to be responsive, providing seamless browsing experiences across various devices. With mobile commerce integration, you can tap into the growing mobile market.",
+                "background": "#fff"
+            },
+            {
+                "heading": "Multichannel Sales Strategy",
+                "paragraph": "Enhance customer engagement and boost sales by expanding your reach to platforms like Amazon, Pinterest, and Facebook. Our tailored strategies maximize your visibility in these diverse markets.",
+                "background": "#fff"
+            },
+            {
+                "heading": "Multi-Channel Shopping Cart",
+                "paragraph": "Amplify your presence by extending your sales to eBay and Amazon. Our multi-channel shopping cart empowers you to capture a wider audience and increase your sales opportunities.",
+                "background": "#fff"
+            }
+        ]
+    }
+}

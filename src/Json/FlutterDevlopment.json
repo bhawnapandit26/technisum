@@ -1,0 +1,74 @@
+{
+    "slider": {
+        "heading": "Flutter App Development Company",
+        "paragraph": "Create robust native experiences for desktop, mobile, and the web. Let's get started.",
+        "image": "./src/assets/19.png",
+        "alt": "android app development",
+        "background-image": "./src/assets/Rectangle.png"
+    },
+    "threecards": [
+        {
+            "image": "./src/assets/36.png",
+            "alt": "technisum",
+            "heading": "Design & Consulting for Flutter Apps",
+            "paragraph": "Since its inception, flutter app development has advanced significantly in terms of the framework's development and application cases. As a flutter app development company, we can assist you with validating your idea for a Flutter app and confirming that the framework is the best technical choice for your proposed product. ",
+            "button": false
+        },
+        {
+            "image": "./src/assets/42.png",
+            "alt": "technisum",
+            "heading": "Development of cross-platform applications",
+            "paragraph": "In order to assure great speed and a positive user experience, our Flutter developers create safe, scalable, and top-notch online and mobile apps for Android and iOS.",
+            "button": false
+        },
+        {
+            "image": "./src/assets/18.png",
+            "alt": "technisum",
+            "heading": "Flutter app upgrade and maintenance",
+            "paragraph": "To increase business continuity, security, and performance, we can assist you with smoothly upgrading to the most recent version of Flutter. For maintenance services, which increases the quality of your programmes, decreases the frequency of mistakes, and guarantees application uptime.",
+            "button": false
+        }
+    ],
+    "leftimageSection": {
+        "image": "./src/assets/28.png",
+        "alt": "technisum",
+        "heading": "Join Forces With Us To Build Highly Scalable Apps With Flutter",
+        "paragraph": "As a Flutter app development firm, we make sure that all of the Material Design & Cupertino components we use in your apps are fully configurable to give your users a Native replica application on every device they use. A robust architecture and expressive, flexible UI are the products of combining the feature-rich Flutter SDK with the visually stunning design component.Because of this, technisum is regarded as the most trustworthy and impeccable business for developing flutter apps in Bangalore, India."
+    },
+    "headings": {
+        "heading": "Benefits of Flutter App Development Cross the Line of Cost-Effectiveness",
+        "subheading": false
+    },
+    "fourCards": {
+        "card": [
+            {
+                "heading": "Fast Development",
+                "paragraph": "Flutter's hot reload functionality makes it simple to experiment, create user interfaces, add features, and address errors more quickly.",
+                "background": "#fff"
+            },
+            {
+                "heading": "Expressive and flexible UI",
+                "paragraph": "Create responsive apps with an engaging and appealing user interface thanks to Material Design and Cupertino Widgets.",
+                "background": "#fff"
+            },
+            {
+                "heading": "Proprietary Widgets",
+                "paragraph": "A selection of widgets from Flutter make it easier to create apps that adhere to Material Design.",
+                "background": "#fff"
+            },
+            {
+                "heading": "Scalability Friendly and Single Codebase",
+                "paragraph": "Developers can develop a single codebase for both the iOS and Android platforms using Flutter.",
+                "background": "#fff"
+            }
+        ]
+    },
+    "ctawithCard": {
+        "heading": "With Us, Launch Your Dream Project",
+        "paragraph": "Across industries, we have collaborated with some of the most cutting-edge concepts and names in the world.",
+        "image": "./src/assets/08.png",
+        "alt": "technisum",
+        "button": false,
+        "card": "Establish a Partnership"
+    }
+}

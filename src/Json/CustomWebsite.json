@@ -1,0 +1,60 @@
+{
+    "slider": {
+        "heading": "Uplift Your Brand with Our Custom Web Design Service",
+        "paragraph": "Customised web design and development services for your business. Engage visitors and make your message apparent. Let's Invent",
+        "image": "./src/assets/32.png",
+        "alt": "android app development",
+        "background-image": "./src/assets/Rectangle.png"
+    },
+    "headings-one": {
+        "heading": "We can build your Dream Website through our Web Development Company",
+        "subheading": false
+    },
+    "leftsideImageSection": {
+        "heading": false,
+        "paragraph": "Your ideal website can be built with Technisum's website development services. We collaborate with you to comprehend your business objectives and preferences while we build interesting and user-friendly websites that enhance the consumer experience. We are committed to providing high-quality solutions that go above and beyond your expectations, whether they are for straightforward blogs or intricate e-commerce platforms. Let us improve your web presence and bring your vision to life. At Technisum, we begin with the procedure that other creative firms typically overlook. We begin by asking a series of questions. Who are your ideal clients, for instance? Who are your main rivals? What issue does your business solve? Why should customers select you? Only after having a firm grasp of these facts do we develop a strategic plan.",
+        "image": "",
+        "alt": ""
+    },
+    "paragraph": "This exercise aids in the development of a unique website design with the necessary components. Your website is designed with the intention of enticing and motivating the target audience to interact. The one effective step in creating a strong brand presence is using our expert web design service. We design unique websites that include all the components necessary to improve the appeal and engagement of your company.",
+    "headings-two": {
+        "heading": "Professional web development and design firm",
+        "subheading": "Our Full-Stack Web Developers can design, integrate, and customise your website or application to exactly match your vision thanks to their programming knowledge and industry-specific experience."
+    },
+    "list-one": {
+        "heading": "A Refreshingly Unique Approach",
+        "list": [
+            "Real-time Accountability & Collaboration",
+            "Dedicated",
+            "Full-Time Developers"
+        ],
+        "image": "",
+        "alt": ""
+    },
+    "list-two": {
+        "heading": "A single point of contact for Development",
+        "list": [
+            "Ample In-House Developers",
+            "Fill Any Skillset Gap Industry-Specific",
+            "Technical Teams"
+        ],
+        "image": "",
+        "alt": ""
+    },
+    "list-three": {
+        "heading": "Services with Low Cost and High Productivity",
+        "list": [
+            "No Extra Charges or Hidden Fees",
+            "Free management and QA",
+            "Reduce development costs by 50% to 75%!"
+        ],
+        "image": "",
+        "alt": ""
+    },
+    "rightsideImageSection"  :{
+        "heading" : "Fix the problems Strengthen Your Campaign",
+        "paragraph" : "In the current environment, where the world is moving online, it is crucial to establish a strong online presence. There will be no justification for your company's failure to continue operating. Our fully scalable, mobile-friendly, SEO-enabled, and marketing-ready website development will make your company stand out from the competition.",
+        "image" : "",
+        "alt" : ""
+    }
+}

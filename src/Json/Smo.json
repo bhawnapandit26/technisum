@@ -1,0 +1,81 @@
+{
+    "slider": {
+        "heading": "Social Media Optimization Services",
+        "paragraph": "Technisum has emerged as a leading online SMO services provider, boasting a highly skilled team capable of forging meaningful connections by strategically positioning brands on relevant social media platforms, elevating their market presence. Our comprehensive digital marketing services encompass Social Media, allowing brands to engage customers in captivating conversations while delivering prompt responses.",
+        "image": "./src/assets/32.png",
+        "alt": "android app development",
+        "background-image": "./src/assets/Rectangle.png"
+    },
+    "headings-one": {
+        "heading": "Awesome features optimizing your website",
+        "subheading": "We offer comprehensive digital marketing services that cover every aspect. Our expertise encompasses a wide range, from web design to marketing strategies, ensuring a complete package for your needs."
+    },
+    "cards-one": {
+        "card": [
+            {
+                "heading": "Initial SEO Project",
+                "paragraph": "Embark on your SEO journey with our comprehensive initial project. We assess your current online presence, identify areas for improvement, and craft a tailored strategy to enhance your visibility.",
+                "background": "#fff"
+            },
+            {
+                "heading": "SEO Audit & Strategy",
+                "paragraph": "Leverage our SEO audit and strategic insights to optimize your digital presence. We analyze your website's performance, assess its strengths and weaknesses, and create a roadmap for effective SEO improvements.",
+                "background": "#fff"
+            },
+            {
+                "heading": "Local SEO Project",
+                "paragraph": "Boost your local visibility with our dedicated local SEO project. We fine-tune your online presence to capture local audiences, ensuring your business stands out in your community and drives foot traffic.",
+                "background": "#fff"
+            }
+        ]
+    },
+    "textSection":{
+        "paragraphOne" : "SMO, or Social SEO, employs strategies to attract unique website visitors via social media, enhancing business ROI and search rankings. Just like traditional advertising, SMO engages audiences, fosters rapport, builds networks, and uses word-of-mouth to amplify messages. SMO creates a lasting buzz, significantly boosting business visibility.",
+        "paragraphTwo" : "Social Media Optimization is key in Online Reputation Management for organizations and individuals valuing their online image. This underlines social media's reach, making SMO an essential tool for digital branding and improved visibility.In addition, our SMO specialists employ effective strategies to engage website visitors, encouraging them to contribute content and enticing them with exclusive offers and discounts. In essence, as an online media marketing agency, we leave no stone unturned in forging a genuine connection between customers and the services we offer.",
+        "paragraphThree" : "In India Average Time Spent By The Indian Users On The Social Network Are 3 Hours Per Month While Google Only Gets 1 Hour 50 Minutes Per Month.",
+        "paragraphFour" : "Technisum's Leading ",
+        "paragraphFive"  :"SMO Services",
+        "paragraphSix" : "Technisum has emerged as a premier online SMO services provider, armed with a highly skilled team adept at forging meaningful connections by positioning brands on relevant social media platforms, thereby enhancing market popularity. Our digital marketing services extend to Social Media, allowing brands to engage customers in captivating conversations while providing swift responses. Our SMO experts employ effective techniques to entice website visitors, encouraging content contribution and captivating them with exclusive offers and discounts. As a dedicated social media marketing agency, we leave no stone unturned in giving a distinct personality to services, fostering authenticity."
+        
+    },
+    "leftImageSection": {
+        "image": "./src/assets/21.png",
+        "alt": "technisum",
+        "heading": "Social Media Optimization Services",
+        "paragraph": false
+    },
+    "cards-two": {
+        "card": [
+            {
+                "heading": "Fraud Management",
+                "paragraph": "Our robust fraud management system ensures a secure environment for your transactions, effectively safeguarding your business and customers from potential threats.",
+                "background": "#fff"
+            },
+            {
+                "heading": "Responsive & Mobile Commerce Ready",
+                "paragraph": "Our websites are designed to be responsive, providing seamless browsing experiences across various devices. With mobile commerce integration, you can tap into the growing mobile market.",
+                "background": "#fff"
+            },
+            {
+                "heading": "Multichannel Sales Strategy",
+                "paragraph": "Enhance customer engagement and boost sales by expanding your reach to platforms like Amazon, Pinterest, and Facebook. Our tailored strategies maximize your visibility in these diverse markets.",
+                "background": "#fff"
+            },
+            {
+                "heading": "Multi-Channel Shopping Cart",
+                "paragraph": "Amplify your presence by extending your sales to eBay and Amazon. Our multi-channel shopping cart empowers you to capture a wider audience and increase your sales opportunities.",
+                "background": "#fff"
+            },
+            {
+                "heading": "Multichannel Sales Strategy",
+                "paragraph": "Enhance customer engagement and boost sales by expanding your reach to platforms like Amazon, Pinterest, and Facebook. Our tailored strategies maximize your visibility in these diverse markets.",
+                "background": "#fff"
+            },
+            {
+                "heading": "Multi-Channel Shopping Cart",
+                "paragraph": "Amplify your presence by extending your sales to eBay and Amazon. Our multi-channel shopping cart empowers you to capture a wider audience and increase your sales opportunities.",
+                "background": "#fff"
+            }
+        ]
+    }
+}
