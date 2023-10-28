@@ -1,7 +1,7 @@
 {
     "slider": {
         "heading": "Sales Optimization & Data Analysis",
-        "paragraph": "At Technisum, our focus on Sales Optimization and Data Analysis is unwavering. We deliver high-quality Search Engine Optimization strategies crafted by our dedicated SEO specialists, guaranteeing optimal lead generation for your business. Beyond excelling in Social Media Marketing, we recognize the individual essence of each business, demanding a custom approach. In the dynamic landscape of online media, diverse interactions and distinct strategies are pivotal for the success of every business type.",
+        "paragraphOne": "At Technisum, our focus on Sales Optimization and Data Analysis is unwavering. We deliver high-quality Search Engine Optimization strategies crafted by our dedicated SEO specialists, guaranteeing optimal lead generation for your business. Beyond excelling in Social Media Marketing, we recognize the individual essence of each business, demanding a custom approach. In the dynamic landscape of online media, diverse interactions and distinct strategies are pivotal for the success of every business type.",
         "image": "./src/assets/32.png",
         "alt": "android app development",
         "background-image": "./src/assets/Rectangle.png"
@@ -82,22 +82,26 @@
             {
                 "heading": "Fraud Management",
                 "paragraph": "Our robust fraud management system ensures a secure environment for your transactions, effectively safeguarding your business and customers from potential threats.",
-                "background": "#fff"
+                "background": "#fff",
+                "button" :"Read More"
             },
             {
                 "heading": "Responsive & Mobile Commerce Ready",
                 "paragraph": "Our websites are designed to be responsive, providing seamless browsing experiences across various devices. With mobile commerce integration, you can tap into the growing mobile market.",
-                "background": "#fff"
+                "background": "#fff",
+                "button" :"Read More"
             },
             {
                 "heading": "Multichannel Sales Strategy",
                 "paragraph": "Enhance customer engagement and boost sales by expanding your reach to platforms like Amazon, Pinterest, and Facebook. Our tailored strategies maximize your visibility in these diverse markets.",
-                "background": "#fff"
+                "background": "#fff",
+                "button" :"Read More"
             },
             {
                 "heading": "Multi-Channel Shopping Cart",
                 "paragraph": "Amplify your presence by extending your sales to eBay and Amazon. Our multi-channel shopping cart empowers you to capture a wider audience and increase your sales opportunities.",
-                "background": "#fff"
+                "background": "#fff",
+                "button" :"Read More"
             }
         ]
     }

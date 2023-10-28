@@ -6,9 +6,10 @@ function Genralslider({ data }) {
       <div className="container-fliud genralSlider" style={{ backgroundImage: `url(${data["background-image"]})` }}>
         <div className='container'>
           <div className='row'>
-            <div className='col-xl-6 col-12'>
-              <h1 className='genralsliderHeading'>{data["heading"]}</h1>
-              <p className='genralsliderPara'>{data["paragraph"]}</p>
+            <div className='col-xl-6 col-12 pe-xl-5'>
+              <h1 className='genralsliderHeading mb-5'>{data["heading"]}</h1>
+              {data["paragraphOne"] ? (<p className='genralsliderPara'>{data["paragraphOne"]}</p>) : null}
+              {data["paragraphTwo"] ? (<p className='genralsliderPara'>{data["paragraphTwo"]}</p>) : null} 
             </div>
             <div className='col-xl-6 col-12'>
               <div className='text-center'> 

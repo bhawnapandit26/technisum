@@ -1,25 +1,30 @@
 {
     "slider": {
         "heading": "X-Cart Development",
-        "paragraph": "X-Cart Development from minor customizations to developing a full-fledged ecommerce store, we provide high-quality x-cart development solution.",
+        "paragraphOne": "X-Cart Development from minor customizations to developing a full-fledged ecommerce store, we provide high-quality x-cart development solution.",
         "image": "./src/assets/32.png",
         "alt": "android app development",
         "background-image": "./src/assets/Rectangle.png"
     },
     "headings-one": {
+        "background" : "#FFF5FD",
+        "padding" : "6rem 0",
         "heading": "X-cart Development",
-        "subheading": "Technisum, an innovative web architecture and development company, embraced E-commerce through x-cart. As India-based x-cart developers, we create appealing web designs and developments. With x-cart, we realize customers' online selling goals, serving as dedicated x-cart web developers across India. Our custom X-Cart services enable global audience reach. Expert developers design stunning X-Cart stores to your precise needs and brand standards. From tweaks to full-fledged eCommerce, our professionals migrate your store to the latest X-Cart version. Need guidance? Get a free consultation."
+        "small-heading" : false,
+        "subheading": "Technisum, an innovative web architecture and development company, embraced E-commerce through x-cart. As India-based x-cart developers, we create appealing web designs and developments. With x-cart, we realize customers' online selling goals, serving as dedicated x-cart web developers across India.",
+        "subheadingTwo" : "Our custom X-Cart services enable global audience reach. Expert developers design stunning X-Cart stores to your precise needs and brand standards. From tweaks to full-fledged eCommerce, our professionals migrate your store to the latest X-Cart version. Need guidance? Get a free consultation."
     },
     "headings-two": {
+        "padding" : "6rem 0",
         "heading": "We offer X-Cart Development Services",
-        "subheading": false
+        "small-heading" : "Migration Solution",
+        "subheading": "Easily migrate between OpenCart platforms with the help of OpenCart Migration Solutions offered by our skilled developers.",
+        "subheadingTwo" : false
     },
     "headings-three": {
-        "heading": "Migration Solution",
-        "subheading": "Easily migrate between OpenCart platforms with the help of OpenCart Migration Solutions offered by our skilled developers."
-    },
-    "headings-four": {
-        "heading": "We Have Done It All",
+        "padding" : "0rem 0",
+        "heading": false,
+        "small-heading": "We Have Done It All",
         "subheading": false
     },
     "cards": {
@@ -47,9 +52,12 @@
         ]
     },
     "rightImageSection": {
-        "image": "./src/assets/21.png",
+        "background" : "#FFF5FD",
+        "image": "./src/assets/54.png",
         "alt": "technisum",
         "heading": "Customers Rave About Us",
-        "paragraph": "Our customers are delighted with their collaboration experience with us. I've worked closely with Rave on our Magento Enterprise e-Commerce site. Their teams delivered a tailored solution on time and within budget. The new site's success is evident in steady year-over-year growth in online sales. If you're after a partner, not just a vendor, the Rave team is your ideal choice."
+        "paragraph": [{
+            "paragraph" : "Our customers are delighted with their collaboration experience with us. I've worked closely with Rave on our Magento Enterprise e-Commerce site. Their teams delivered a tailored solution on time and within budget. The new site's success is evident in steady year-over-year growth in online sales. If you're after a partner, not just a vendor, the Rave team is your ideal choice."
+        }]
     }
 }

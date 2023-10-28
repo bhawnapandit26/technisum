@@ -1,51 +1,58 @@
 {
     "slider": {
         "heading": "Sales Optimization & Data Analysis",
-        "paragraph": "At Technisum, our focus on Sales Optimization and Data Analysis is unwavering. We deliver high-quality Search Engine Optimization strategies crafted by our dedicated SEO specialists, guaranteeing optimal lead generation for your business. Beyond excelling in Social Media Marketing, we recognize the individual essence of each business, demanding a custom approach. In the dynamic landscape of online media, diverse interactions and distinct strategies are pivotal for the success of every business type.",
+        "paragraphOne": "At Technisum, our focus on Sales Optimization and Data Analysis is unwavering. We deliver high-quality Search Engine Optimization strategies crafted by our dedicated SEO specialists, guaranteeing optimal lead generation for your business. Beyond excelling in Social Media Marketing, we recognize the individual essence of each business, demanding a custom approach. In the dynamic landscape of online media, diverse interactions and distinct strategies are pivotal for the success of every business type.",
         "image": "./src/assets/32.png",
         "alt": "android app development",
         "background-image": "./src/assets/Rectangle.png"
     },
-    "paragraphOne" : "In today's digital landscape, consumer focus has intensified - from online searches to social media engagement, e-commerce transactions, and remote work. Technisum empowers you to understand this evolving behavior, adapt your business, and thrive in the digital domain.",
-    "paragraphTwo" : "Amid uncertainty, maintaining composure is vital. With Technisum, you can make informed decisions that secure your employees' well-being and ensure your business's future, avoiding rushed choices that may harm both. Our expertise guides you through this dynamic era, helping you navigate the digital transformation with confidence.",
-    "headingOne" : {
-        "heading" : "Do you know where to begin?",
-        "paragraph" : "I offer the finest solutions, tools, and resources to help you initiate."
+    "paraOne" : {
+        "background" : "#FFF5FD",
+        "padding" : "2rem 0 0 0",
+        "subheading" : "In today's digital landscape, consumer focus has intensified - from online searches to social media engagement, e-commerce transactions, and remote work. Technisum empowers you to understand this evolving behavior, adapt your business, and thrive in the digital domain.",
+        "subheadingTwo" : "Amid uncertainty, maintaining composure is vital. With Technisum, you can make informed decisions that secure your employees' well-being and ensure your business's future, avoiding rushed choices that may harm both. Our expertise guides you through this dynamic era, helping you navigate the digital transformation with confidence."
     },
-    "headingtwo" : {
-        "heading" : "LOOKING TO CREATE A WEBSITE?        ",
-        "paragraph" : "Let's build a professional website that reflects your brand and engages visitors."
+    "paraTwo"  :{
+        "background" : "#FFF5FD",
+        "padding" : "0rem",
+        "small-heading" : "Do you know where to begin?",
+        "subheading" : "I offer the finest solutions, tools, and resources to help you initiate."
     },
-    "headingThree" : {
-        "heading" : "WANT TO ENHANCE YOUR COMPANY'S VISIBILITY?        ",
+    "paraThree" : {
+        "background" : "#FFF5FD",
+        "padding" : "0",
+        "small-heading" : "LOOKING TO CREATE A WEBSITE?",
+        "subheading" : "Let's build a professional website that reflects your brand and engages visitors."
+    },
+    "paraFour" : {
+        "background" : "#FFF5FD",
+        "padding" : "0 0 2rem 0",
+        "small-heading" : "WANT TO ENHANCE YOUR COMPANY'S VISIBILITY?        ",
         "paragraph" : "Elevate your company's visibility with tailored strategies that attract attention and drive growth."
     },
-    "headingFour" : {
+    "headings" : {
         "heading" : "Types of services I can provide        ",
-        "paragraph" : " All services are tailored to your business and your market needs."
+        "subheading" : "All services are tailored to your business and your market needs."
     },
-    "cards": {
-        "card": [
-            {
-                "heading": "Fraud Management",
-                "paragraph": "Our robust fraud management system ensures a secure environment for your transactions, effectively safeguarding your business and customers from potential threats.",
-                "background": "#fff"
-            },
-            {
-                "heading": "Responsive & Mobile Commerce Ready",
-                "paragraph": "Our websites are designed to be responsive, providing seamless browsing experiences across various devices. With mobile commerce integration, you can tap into the growing mobile market.",
-                "background": "#fff"
-            },
-            {
-                "heading": "Multichannel Sales Strategy",
-                "paragraph": "Enhance customer engagement and boost sales by expanding your reach to platforms like Amazon, Pinterest, and Facebook. Our tailored strategies maximize your visibility in these diverse markets.",
-                "background": "#fff"
-            },
-            {
-                "heading": "Multi-Channel Shopping Cart",
-                "paragraph": "Amplify your presence by extending your sales to eBay and Amazon. Our multi-channel shopping cart empowers you to capture a wider audience and increase your sales opportunities.",
-                "background": "#fff"
-            }
-        ]
-    }
+    "sahdowCards": [
+        {
+            "heading": "Research",
+            "paragraph": "At this stage, we look to find the information holes and backing your presumptions with the genuine client assumptions. We assist you with finding some kind of harmony between the client needs and your business objectives. Every one of our expectations depend on broad examination of the objective market, contenders and dynamic economic situations."
+        },
+        {
+            
+            "heading": "Planning",
+            "paragraph": "Arranging includes making powerful model or outline, otherwise called wireframe, to visualize the comprehensive look of your item. Our keen group is significantly knowledgeable about planning complete wireframes to guarantee that the right data is gotten to in the correct way at the ideal spot."
+        },
+        {
+            
+            "heading": "Visual design/ User interface design",
+            "paragraph": "Visual plan gives a face to your image. It centers around the feel of the item that are liable for conveying your plan to the crowd. With a profound comprehension of different business conditions, our talented fashioners manufacture clever fixes to suitably pass on your business destinations and assemble a passionate interface with the clients."
+        },
+        {
+           
+            "heading": "Development",
+            "paragraph": "This includes the method involved with changing the plan into a completely practical item. Our frontend designers hold significant skill in all the coding advances like HTML, CSS and JavaScript. We guarantee that your item is intelligent, excellent and according to industry principles."
+        }
+    ]
 }

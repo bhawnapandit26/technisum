@@ -1,7 +1,8 @@
 {
     "slider": {
         "heading": "Static Website Design Company",
-        "paragraph": "Being one of the best static website design companies in India and technisum offers a wide range of static website designs and web development services at affordable price. We create a professional website that would be easy to use, SEO friendly, and easy for business promotions.Get your website now",
+        "paragraphOne": "Being one of the best static website design companies in India and technisum offers a wide range of static website designs and web development services at affordable price. We create a professional website that would be easy to use, SEO friendly, and easy for business promotions.",
+        "paragraphTwo" : "Get your website now",
         "image": "./src/assets/05.png",
         "alt": "android app development",
         "background-image": "./src/assets/Rectangle.png"
@@ -20,13 +21,15 @@
         "image": "./src/assets/06.png",
         "alt": "technisum",
         "heading": "Web Development & Design",
-        "paragraph": "We are the top-rated and fastest-growing website design firm in Bangalore, and we have many years of experience. WordPress, the most well-liked open source Content Management System (CMS), is used in the creation of our websites."
+        "paragraphOne": "We are the top-rated and fastest-growing website design firm in Bangalore, and we have many years of experience. WordPress, the most well-liked open source Content Management System (CMS), is used in the creation of our websites."
     },
     "rightImageSection": {
         "image": "./src/assets/57.png",
         "alt": "technisum",
         "heading": "What makes us reliable and No.1?",
-        "paragraph": "Beautiful and creative static web design services are provided by Technisum, India's top website development company. The staff members at this company are aware of the goals and expectations of the clients, and they develop static websites while taking into account the potential of various digital marketing strategies like SEO and SMM. We can easily help you showcase your goods and services on static websites we've constructed and created, which will help you grow your business."
+        "paragraph": [{
+            "paragraph": "Beautiful and creative static web design services are provided by Technisum, India's top website development company. The staff members at this company are aware of the goals and expectations of the clients, and they develop static websites while taking into account the potential of various digital marketing strategies like SEO and SMM. We can easily help you showcase your goods and services on static websites we've constructed and created, which will help you grow your business."
+        }]
     },
     "headings": {
         "heading": "Technology Expertise in our Web Design Company",

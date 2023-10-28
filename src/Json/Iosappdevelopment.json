@@ -1,31 +1,41 @@
 {
     "slider": {
         "heading": "iOS App Development Firm",
-        "paragraph": "Create future-proof, quality-tested iOS applications with cutting-edge iOS app development services. Reach out to our iOS Team.",
+        "paragraphOne": "Create future-proof, quality-tested iOS applications with cutting-edge iOS app development services. ",
+        "paragraphTwo" : "Reach out to our iOS Team.",
         "image": "./src/assets/33.png",
         "alt": "android app development",
         "background-image": "./src/assets/Rectangle.png"
     },
     "firstSection": {
         "heading": "Consultation for iOS App Development",
-        "paragraph": "Depending on their features, iOS applications are better suited for a particular kind of business. Our team of iOS app developers assists companies in determining whether iOS is the right platform for them and which tech stack best meets their requirements.  ",
+        "paragraphOne": "Depending on their features, iOS applications are better suited for a particular kind of business. Our team of iOS app developers assists companies in determining whether iOS is the right platform for them and which tech stack best meets their requirements.  ",
         "image": "./src/assets/29.png",
         "alt": "android app development"
     },
     "secondSection": {
         "heading": "UI/UX Design for iOS",
-        "paragraph": "The designs of iOS applications are renowned for being memorable and captivating. We match your brand with the expectations of your target audience for the Apple environment. Our iOS app design team specializes in making memorable user experiences.",
+        "paragraph": [
+            {
+                "paragraph":"The designs of iOS applications are renowned for being memorable and captivating. We match your brand with the expectations of your target audience for the Apple environment. Our iOS app design team specializes in making memorable user experiences.",
+                "boldContent" : false
+            }
+        ],
         "image": "./src/assets/25.png",
-        "alt": "android app development"
+        "alt": "android app development",
+        "card": false,
+        "button": false
     },
     "thirdSection": {
         "heading": "Software testing for iOS",
-        "paragraph": "Security and performance are prioritized throughout our iPhone mobile development process. By combining manual testing with AI-driven automated testing, we ensure that your application is bug-free and hack-proof.",
+        "paragraphOne": "Security and performance are prioritized throughout our iPhone mobile development process. By combining manual testing with AI-driven automated testing, we ensure that your application is bug-free and hack-proof.",
         "image": "./src/assets/29.png",
         "alt": "android app development"
     },
+    "headings":{
+        "heading": "Why Choose Us To Develop Mobile Apps?"
+    },
     "whyChooseUs": {
-        "heading": "Why Choose Us To Develop Mobile Apps?",
         "card": [
             {
                 "heading": "Efficiency of Work ",
@@ -40,8 +50,8 @@
         ]
     },
     "cta": {
-        "heading": "Start now ",
-        "paragraph": "Create your effective iOS mobile solution now. Make contact with us.",
+        "heading": "Start now",
+        "paragraphOne": "Create your effective iOS mobile solution now. Make contact with us.",
         "image": "./src/assets/41.png",
         "alt": "technisum",
         "button": "Contact Us",
@@ -49,7 +59,11 @@
     },
     "ctawithCard": {
         "heading": "Join Us in Launching Your Dream Project",
-        "paragraph": "In a variety of industries, we have collaborated with some of the most creative brands and ideas in the world.",
+        "paragraph": [
+            {
+                "paragraph": "In a variety of industries, we have collaborated with some of the most creative brands and ideas in the world."
+            }
+        ],
         "image": "./src/assets/09.png",
         "alt": "technisum",
         "button": "Let's work together",

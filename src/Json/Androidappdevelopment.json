@@ -1,26 +1,36 @@
 {
     "slider": {
         "heading": "Crafting software for the world's largest mobile platform",
-        "paragraph": "Design, code, test, and publish on Google Play.",
+        "paragraphOne": "Design, code, test, and publish on Google Play.",
+        "paragraphTwo"  : false,
         "image": "./src/assets/android-app-dev-slider.png",
         "alt": "android app development",
         "background-image": "./src/assets/Rectangle.png"
     },
     "firstSection": {
         "heading": "Android App Development",
-        "paragraph": "We are completely occupied with building portable Apps for the creative business and start-ups. ",
+        "paragraphOne": "We are completely occupied with building portable Apps for the creative business and start-ups. ",
         "image": "./src/assets/25.png",
         "alt": "android app development"
     },
     "secondSection": {
+        "background": "#fff",
+        "subHeading": false,
         "heading": "Android App Development",
-        "paragraph": "we develop high-performing user-friendly iPhone mobile Application that ensures best compatibility with all iOS devices.",
+        "paragraph": [
+            {
+                "boldContent" : false,
+                "paragraph": "we develop high-performing user-friendly iPhone mobile Application that ensures best compatibility with all iOS devices."
+            }
+        ],
         "image": "./src/assets/26.png",
-        "alt": "android app development"
+        "alt": "android app development",
+        "card": false,
+        "button": false
     },
     "thirdSection": {
         "heading": "Flutter App Development",
-        "paragraph": "Our Flutter mobile app development services are devised to help you create a multi-platform existence.",
+        "paragraphOne": "Our Flutter mobile app development services are devised to help you create a multi-platform existence.",
         "image": "./src/assets/27.png",
         "alt": "android app development"
     },
@@ -58,7 +68,7 @@
     },
     "cta": {
         "heading": "Join the App ",
-        "paragraph": "Scan the QR code and get App and start your journey with us",
+        "paragraphOne": "Scan the QR code and get App and start your journey with us",
         "image": "./src/assets/40.png",
         "alt": "",
         "button": "Explore More",

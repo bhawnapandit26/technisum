@@ -1,10 +1,12 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
+
 
 function Homesectiontwo({data}) {
     return (
         <>
             <div className='container py-md-5'>
-                <div className='row py-5'>
+                <div className='row'>
                     <div className='col-xl-5 col-12 py-2'>
                         <h2 className='py-4'>{data["heading"]}</h2>
                         <p>{data["paragraph"]}</p>
@@ -22,7 +24,7 @@ function Homesectiontwo({data}) {
                                     <p className='cardParagraph py-4'>
                                         {card["paragraph"]}
                                     </p>
-                                    <a> {card["button"]}</a>
+                                    <Link to='/'> {card["button"]}</Link>
                                 </div>
                             );
                         })}

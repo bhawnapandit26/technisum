@@ -1,6 +1,6 @@
 import React from 'react'
 import data from "/src/Json/Home.json"
-import { Clients, Ctahome, Homesectiontwo, Homeslider, Leftsideimagesection, RightsideImagewsh, Threecolcardwithrm, Threecolhome, Twocolumncomp, Whyushomepage } from '../Components/Index'
+import { Clients, Ctahome, Homesectiontwo, Homeslider, LeftsideimageCTA, RightsideimageCTA, Threecolcardwithrm, Threecolhome, Twocolumncomp, Whyushomepage } from '../Components/Index'
 
 
 function Home() {
@@ -9,13 +9,13 @@ function Home() {
             <Homeslider data={data["slider"]}/>
             <Homesectiontwo data={data["secondSection"]}/>
             <Clients data={data["company"]}/>
-            <Leftsideimagesection data={data["leftSideImageSection"]}/>
+            <LeftsideimageCTA data={data["leftSideImageSection"]}/>
             <Twocolumncomp data={data["twoColumnSection"]}/>
             <Threecolcardwithrm data={data["sahdowCards"]}/>
-            <RightsideImagewsh data={data["rightSideImageSection"]}/>
+            <RightsideimageCTA data={data["rightSideImageSection"]}/>
             <Whyushomepage data={data["whyUsSection"]}/>
             <Ctahome data={data["ctaSection"]}/>
-            <RightsideImagewsh data={data["whyUsSecondSection"]}/>
+            <RightsideimageCTA data={data["whyUsSecondSection"]}/>
             <Threecolhome data={data["threeColumnSection"]}/>
         </>
     )

@@ -1,8 +1,8 @@
 {
     "slider": {
         "heading": "Uplift Your Brand with Our Custom Web Design Service",
-        "paragraph": "Customised web design and development services for your business. Engage visitors and make your message apparent. Let's Invent",
-        "image": "./src/assets/32.png",
+        "paragraphOne": "Customised web design and development services for your business. Engage visitors and make your message apparent. Let's Invent",
+        "image": "./src/assets/02.png",
         "alt": "android app development",
         "background-image": "./src/assets/Rectangle.png"
     },
@@ -12,9 +12,9 @@
     },
     "leftsideImageSection": {
         "heading": false,
-        "paragraph": "Your ideal website can be built with Technisum's website development services. We collaborate with you to comprehend your business objectives and preferences while we build interesting and user-friendly websites that enhance the consumer experience. We are committed to providing high-quality solutions that go above and beyond your expectations, whether they are for straightforward blogs or intricate e-commerce platforms. Let us improve your web presence and bring your vision to life. At Technisum, we begin with the procedure that other creative firms typically overlook. We begin by asking a series of questions. Who are your ideal clients, for instance? Who are your main rivals? What issue does your business solve? Why should customers select you? Only after having a firm grasp of these facts do we develop a strategic plan.",
-        "image": "",
-        "alt": ""
+        "paragraphOne": "Your ideal website can be built with Technisum's website development services. We collaborate with you to comprehend your business objectives and preferences while we build interesting and user-friendly websites that enhance the consumer experience. We are committed to providing high-quality solutions that go above and beyond your expectations, whether they are for straightforward blogs or intricate e-commerce platforms. Let us improve your web presence and bring your vision to life. At Technisum, we begin with the procedure that other creative firms typically overlook. We begin by asking a series of questions. Who are your ideal clients, for instance? Who are your main rivals? What issue does your business solve? Why should customers select you? Only after having a firm grasp of these facts do we develop a strategic plan.",
+        "image": "./src/assets/01.png",
+        "alt": "technisum"
     },
     "paragraph": "This exercise aids in the development of a unique website design with the necessary components. Your website is designed with the intention of enticing and motivating the target audience to interact. The one effective step in creating a strong brand presence is using our expert web design service. We design unique websites that include all the components necessary to improve the appeal and engagement of your company.",
     "headings-two": {
@@ -28,8 +28,8 @@
             "Dedicated",
             "Full-Time Developers"
         ],
-        "image": "",
-        "alt": ""
+        "image": "./src/assets/25.png",
+        "alt": "technisum"
     },
     "list-two": {
         "heading": "A single point of contact for Development",
@@ -38,7 +38,7 @@
             "Fill Any Skillset Gap Industry-Specific",
             "Technical Teams"
         ],
-        "image": "",
+        "image": "./src/assets/26.png",
         "alt": ""
     },
     "list-three": {
@@ -48,13 +48,15 @@
             "Free management and QA",
             "Reduce development costs by 50% to 75%!"
         ],
-        "image": "",
+        "image": "./src/assets/27.png",
         "alt": ""
     },
     "rightsideImageSection"  :{
         "heading" : "Fix the problems Strengthen Your Campaign",
-        "paragraph" : "In the current environment, where the world is moving online, it is crucial to establish a strong online presence. There will be no justification for your company's failure to continue operating. Our fully scalable, mobile-friendly, SEO-enabled, and marketing-ready website development will make your company stand out from the competition.",
-        "image" : "",
-        "alt" : ""
+        "paragraph" : [{
+            "paragraph" : "In the current environment, where the world is moving online, it is crucial to establish a strong online presence. There will be no justification for your company's failure to continue operating. Our fully scalable, mobile-friendly, SEO-enabled, and marketing-ready website development will make your company stand out from the competition."
+        }],
+        "image" : "./src/assets/12.png",
+        "alt" : "technisum"
     }
 }

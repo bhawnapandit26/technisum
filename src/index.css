@@ -52,7 +52,7 @@ h6 {
   font-weight: 500;
 }
 
-p {
+p, li {
   font-size: 1.5rem;
   color: var(--primary-font-color);
   line-height: 2.25rem;
@@ -69,28 +69,29 @@ a{
   font-weight: 600;
 }
 
-.cardParagraph {
+.cardParagraph, .shdwcardwrm ul li {
   font-size: 1.3rem;
   color: var(--primary-font-color);
   margin: 0;
 }
 
-.pageButton {
+.pageButton, input.contactUsBtn {
   background-color: var(--purple);
   font-size: 1rem;
   font-weight: 500;
   color: #fff;
   padding: 0.875rem 2.8125rem;
   border-radius: 1.875rem;
+  border: none;
 }
-.pageButton:hover{
+.pageButton:hover, input.contactUsBtn:hover{
   box-shadow: 0px 0px 10px #a38dd2;
 }
 
 /*header CSS*/
 header {
   background: var(--bg-color);
-  position: fixed;
+  position: sticky;
   width: 100%;
   top: 0;
 }
@@ -111,6 +112,11 @@ a.header-btn:hover {
 }
 .dropdown-item:hover{
   background-color: var(--purple);
+}
+
+ul.dropdown-menu{
+  overflow-y: scroll;
+  max-height: 600px;
 }
 
 /*home slider CSS*/
@@ -158,6 +164,9 @@ a.header-btn:hover {
   box-shadow: 0px 0px 24px 0px rgba(0, 0, 0, 0.04);
   border-radius: 2.9375rem;
 }
+.homeCardSectionTwo:hover {
+  box-shadow: 0px 0px 31px 0px rgb(0 0 0 / 11%);
+}
 
 .homeCardSectionTwo img {
   background-color: #F9F9F9;
@@ -193,8 +202,11 @@ a.header-btn:hover {
   box-shadow: 0px 0px 24px 0px rgba(0, 0, 0, 0.04);
   border-radius: 0.625rem;
 }
+.shdwcardwrm:hover{
+  box-shadow: 0px 0px 31px 0px rgb(0 0 0 / 11%);
+}
 
-.shdwcardwrm a {
+.shdwcardwrm a, .cardpurpledot a {
   color: var(--purple) !important;
   font-size: 1.25rem;
   font-weight: 500;
@@ -238,7 +250,7 @@ a.header-btn:hover {
 
 p.genralsliderPara {
   font-size: 1.75rem;
-  padding: 3rem 0;
+  padding: 0rem 0 3rem;
 }
 
 /*Why use app*/
@@ -280,7 +292,7 @@ p.genralsliderPara {
 }
 
 /*purple dot*/
-.cardpurpledot div {
+.cardpurpledot div.purpleDot {
   width: 2rem;
   height: 2rem;
   background-color: #A38DD2;
@@ -301,6 +313,80 @@ p.genralsliderPara {
   font-weight: 600;
   border-radius: 0.3rem;
   line-height: 4.375rem;
+}
+
+/*Contact Us page*/
+.contact-card {
+  padding: 3rem 4rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: right bottom;
+}
+.social-icons-contact a {
+  margin-right: 2rem;
+}
+.inputSection label {
+  font-size: 1.25rem;
+  font-weight: 500;
+}
+.inputSection input, .inputSection textarea {
+  border: 0;
+  border-bottom: 1px solid #C2C2C2;
+}
+.inputSection input:focus-visible, .inputSection textarea:focus-visible, footer form input{
+  outline: none;
+}
+.checkbox-option input[type="checkbox"] {
+  appearance: none;
+  border: 1px solid #000;
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+}
+.checkbox-option input[type="checkbox"]:checked {
+  background: #000;
+}
+/*Footer*/
+footer{
+  background: var(--bg-color);
+}
+footer p {
+  line-height: 1.75rem;
+}
+
+footer p, footer li, footer a {
+  font-size: 1.125rem;
+  color: #fff;
+}
+footer ul{
+  padding: 0;
+}
+footer li{
+  list-style: none;
+}
+footer li:hover {
+  text-decoration: underline;
+}
+
+footer h6{
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.5rem;
+  letter-spacing: 0.01875rem;
+  color: #fff;
+  margin-bottom: 2rem;
+}
+footer form {
+  background-color: #fff;
+  padding: 0.75rem 1.2rem;
+  border-radius: 0.5rem;
+}
+footer form input {
+  border: none;
+}
+footer form button {
+  border: none;
+  background-color: #fff;
 }
 /**********************************************Responsive CSS************************************************/
 
@@ -345,7 +431,7 @@ p.genralsliderPara {
   }
 
   .slider-bg {
-    padding: 14rem 0;
+    padding: 9rem 0;
   }
 
   .sliderHeading {
@@ -383,7 +469,7 @@ p.genralsliderPara {
   }
 
   .genralSlider {
-    padding: 14rem 0 11rem;
+    padding: 6rem 0 11rem;
     background-size: auto;
   }
   .genralsliderHeading{

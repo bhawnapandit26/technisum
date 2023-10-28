@@ -1,7 +1,7 @@
 {
     "slider": {
         "heading": "Taking Digital Services to New Heights!",
-        "paragraph": "Technisum is at the forefront of delivering impeccable digital experiences. Our expertise lies in crafting user-friendly designs and marketing solutions that are renowned for their exceptional efficiency.",
+        "paragraphOne": "Technisum is at the forefront of delivering impeccable digital experiences. Our expertise lies in crafting user-friendly designs and marketing solutions that are renowned for their exceptional efficiency.",
         "image": "./src/assets/32.png",
         "alt": "android app development",
         "background-image": "./src/assets/Rectangle.png"
@@ -21,6 +21,6 @@
         "image": "./src/assets/21.png",
         "alt": "technisum",
         "heading": "The Core",
-        "paragraph": "A focal point of our philosophy, The Core embodies the fundamental essence that defines us. Guided by this principle, we navigate the complexities of life with unwavering commitment. Committed to integrity, innovation, and unique solutions, The Core underpins our dedication to delivering exceptional experiences through superior products and impeccable service. It resonates with clients, partners, and the world, driving us forward.Our Values are akin to the stability of a core structure, providing strength and resilience. Grounded in integrity, growth, and customer dedication, they shape our identity. Amid the dynamic landscape of imperdiet, we adapt, thrive, and remain steadfast in our pursuit of excellence. Upholding these values, we tackle challenges and offer innovative solutions that meet customer needs. This core philosophy guides our journey, fostering meaningful relationships and lasting impact."
+        "paragraphOne": "A focal point of our philosophy, The Core embodies the fundamental essence that defines us. Guided by this principle, we navigate the complexities of life with unwavering commitment. Committed to integrity, innovation, and unique solutions, The Core underpins our dedication to delivering exceptional experiences through superior products and impeccable service. It resonates with clients, partners, and the world, driving us forward.Our Values are akin to the stability of a core structure, providing strength and resilience. Grounded in integrity, growth, and customer dedication, they shape our identity. Amid the dynamic landscape of imperdiet, we adapt, thrive, and remain steadfast in our pursuit of excellence. Upholding these values, we tackle challenges and offer innovative solutions that meet customer needs. This core philosophy guides our journey, fostering meaningful relationships and lasting impact."
     }
 }

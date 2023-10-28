@@ -1,11 +1,7 @@
 import React from "react";
+import { Outlet } from 'react-router-dom';
 import Header from "./Components/Header";
-import Home from "./Pages/Home";
-import AndroidAppDev from "./Pages/AndroidAppDev";
-import IosAppDevlopment from "./Pages/IosAppDevlopment";
-import FlutterDevelopment from "./Pages/FlutterDevelopment";
-import StaticWebsite from "./Pages/StaticWebsite";
-import DynamicWebsite from "./Pages/DynamicWebsite";
+import Footer from "./Components/Footer";
 
 function App() {
 
@@ -13,12 +9,32 @@ function App() {
     <>
       <div className="position-relative">
       <Header/>
+      <Outlet/>
       {/* <Home/> */}
       {/* <AndroidAppDev/> */}
       {/* <IosAppDevlopment/> */}
       {/* <FlutterDevelopment/> */}
       {/* <StaticWebsite/> */}
-      <DynamicWebsite/>
+      {/* <DynamicWebsite/> */}
+      {/* <WordpressWebsite/> */}
+      {/* <CustomWebsite/> */}
+      {/* <CMSWebsiteDevelopment/> */}
+      {/* <MagentoEcommerce/> */}
+      {/* <MagentoCustomization/> */}
+      {/* <WooCommerceWebsite/> */}
+      {/* <EcommerceMaintenance/> */}
+      {/* <Econsultants/> */}
+      {/* <ShopifyEcommercestore/> */}
+      {/* <XcartDevelopment/> */}
+      {/* <SEO/> */}
+      {/* <SMO/> */}
+      {/* <SMM/> */}
+      {/* <SEM/> */}
+      {/* <GoogleAnalytics/> */}
+      {/* <UIUxdesign/> */}
+      {/* <ITConsulting/> */}
+      {/* <ContactUs/> */}
+      <Footer/>
       </div>
       
     </>

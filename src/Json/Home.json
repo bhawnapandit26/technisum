@@ -41,7 +41,11 @@
         "image": "./src/assets/girl-w-mobile.png",
         "alt": "girl with mobile",
         "heading": "One Stop Solution For Your Business Boosting",
-        "paragraph": "We offer a variety of software solution services, including platform development, custom programmer creation, and IT consulting."
+        "paragraphOne": "We offer a variety of software solution services, including platform development, custom programmer creation, and IT consulting.",
+        "paragraphTwo": false,
+        "card": false,
+        "button": false,
+        "backGround": "#fff"
     },
     "twoColumnSection": [
         {
@@ -98,6 +102,7 @@
         }
     ],
     "rightSideImageSection": {
+        "background": "#fff",
         "subHeading": "Awesome Features",
         "heading": "Enhancing User Experience with these 4 Game-Changing Technologies",
         "paragraph": [
@@ -118,8 +123,10 @@
                 "paragraph": "Chatbots, recommendation engines, and personalized content delivery to enhance user engagement."
             }
         ],
+        "card": false,
         "image": "./src/assets/Group-768.png",
-        "alt": "why us"
+        "alt": "why us",
+        "button": false
     },
     "whyUsSection": {
         "subHeading": "Why Us",
@@ -158,16 +165,19 @@
         "alt": "software solutions"
     },
     "whyUsSecondSection": {
+        "background": "#fff",
         "subHeading": "Why Us",
         "heading": "It Goes Beyond Just A Name. It's An Assurance",
         "image": "./src/assets/Group-1000001785.png",
         "alt": "technisum",
         "paragraph": [
             {
-                "boldContent": "",
-                "paragraph": "We have a group of experts working to provide our customers with the solutions that are most appropriate for their businesses. Every solution is implemented following a thorough examination of the client’s requirements. "
+                "boldContent": false,
+                "paragraph": "We have a group of experts working to provide our customers with the solutions that are most appropriate for their businesses. Every solution is implemented following a thorough examination of the client's requirements. "
             }
-        ]
+        ],
+        "card": false,
+        "button": false
     },
     "threeColumnSection": [
         {

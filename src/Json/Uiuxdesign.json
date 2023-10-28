@@ -1,75 +1,69 @@
 {
     "slider": {
         "heading": "UI/UX design & development",
-        "paragraph": "At Technisum, we strive hard to grow incredibly practical B2B applications with improved ease of use. We unequivocally guess that everything influencing the end client is a critical piece of the plan cycle. Therefore, we look to broaden a smooth and smart end client experience by noticing a client driven methodology towards creating items which are easy to use, clean, notable and expandable.",
+        "paragraphOne": "At Technisum, we strive hard to grow incredibly practical B2B applications with improved ease of use. We unequivocally guess that everything influencing the end client is a critical piece of the plan cycle. Therefore, we look to broaden a smooth and smart end client experience by noticing a client driven methodology towards creating items which are easy to use, clean, notable and expandable.",
         "image": "./src/assets/32.png",
         "alt": "android app development",
         "background-image": "./src/assets/Rectangle.png"
     },
     "headings" : {
         "heading" : "Our UI/UX services",
-        "paragraphOne" : "Our skillful group of originators and engineers work in cooperative energy to foster hearty and adaptable client encounters to boost the ROI and achieve business objectives. Our viability and uniqueness of the last deliverable stems from the cycle we embrace. We notice the accompanying system for each item we create.",
-        "paragraphTwo" : "-Understanding the requirements",
-        "paragraphThree" : "Our cycle starts with understanding the essential prerequisites of our customer. We endeavor to find the reason for the item, the goals of our customer's business, the interest group and their assumptions.",
+        "subheading" : "Our skillful group of originators and engineers work in cooperative energy to foster hearty and adaptable client encounters to boost the ROI and achieve business objectives. Our viability and uniqueness of the last deliverable stems from the cycle we embrace. We notice the accompanying system for each item we create.",
+        "subheadingTwo" : "-Understanding the requirements",
+        "subheadingThree" : "Our cycle starts with understanding the essential prerequisites of our customer. We endeavor to find the reason for the item, the goals of our customer's business, the interest group and their assumptions.",
         "list" : ["Interviews", "Business Understanding", "Gap Assessment"]
         
     },
     "sahdowCards": [
         {
-            "image": "./src/assets/digital-marketing-1.png",
-            "alt": "digital marketing",
-            "heading": "Digital PR & Link-Building",
-            "paragraph": "Boost your online presence through effective PR and link-building techniques. We help you build connections and authority in the digital landscape.",
-            "button": "Read More"
+            "image": false,
+            "heading": "Research",
+            "paragraph": "At this stage, we look to find the information holes and backing your presumptions with the genuine client assumptions. We assist you with finding some kind of harmony between the client needs and your business objectives. Every one of our expectations depend on broad examination of the objective market, contenders and dynamic economic situations.",
+            "list" : ["Competitors' Analysis and Benchmarking", "Market Investigation", "Building User Personas", "Personas User Profiling"],
+            "button": false
         },
         {
-            "image": "./src/assets/coding-1.png",
-            "alt": "coding",
-            "heading": "Link Building & Content",
-            "paragraph": "Elevate your online influence by employing impactful link-building strategies and crafting compelling content. We focus on enhancing your website's reputation and relevance.",
-            "button": "Read More"
+            "image": false,
+            "heading": "Planning",
+            "paragraph": "Arranging includes making powerful model or outline, otherwise called wireframe, to visualize the comprehensive look of your item. Our keen group is significantly knowledgeable about planning complete wireframes to guarantee that the right data is gotten to in the correct way at the ideal spot.",
+            "list" : ["Flow Diagram", "Clickable Prototypes", "Usability Engineering", "Sketching of the Wireframe", "Information Architecture Planning"],
+            "button": false
         },
         {
-            "image": "./src/assets/app-development-1.png",
-            "alt": "app development",
-            "heading": "Maps Search Optimization",
-            "paragraph": "Optimize your visibility in local searches with precise maps search optimization. We ensure that your business gains prominence in local search results.",
-            "button": "Read More"
+            "image": false,
+            "heading": "Visual design/ User interface design",
+            "paragraph": "Visual plan gives a face to your image. It centers around the feel of the item that are liable for conveying your plan to the crowd. With a profound comprehension of different business conditions, our talented fashioners manufacture clever fixes to suitably pass on your business destinations and assemble a passionate interface with the clients.",
+            "list" : ["Define Style Guide", "Build High Fidelity Design Mockup", "Design Review & Validation", "User Acceptance"],
+            "button": false
         },
         {
-            "image": "./src/assets/web-design-1.png",
-            "alt": "web design",
-            "heading": "Big Data Analysis",
-            "paragraph": "Unleash the potential of big data to gain valuable insights that drive informed decision-making. Our data analysis empowers you to make strategic choices for your business.",
-            "button": "Read More"
+            "image": false,
+            "heading": "Development",
+            "paragraph": "This includes the method involved with changing the plan into a completely practical item. Our frontend designers hold significant skill in all the coding advances like HTML, CSS and JavaScript. We guarantee that your item is intelligent, excellent and according to industry principles.",
+            "list" : ["Finalize UX deliverables", "Frontend development"],
+            "button": false
         },
         {
-            "image": "./src/assets/ui.png",
-            "alt": "ui",
-            "heading": "Custom Email Design",
-            "paragraph": "Create engaging email experiences with personalized designs that resonate with your audience. Our customized email designs enhance your brand communication.",
-            "button": "Read More"
+            "image": false,
+            "heading": "Testing",
+            "paragraph": "At Technisum, we notice a course of careful UI and Usability testing to guarantee usability and control stream comfort. We lead a few client testing meetings to get canny input on UI/UX plan and convert this information into noteworthy plan upgrades.",
+            "list" : false,
+            "button": false
         },
         {
-            "image": "./src/assets/technical-support.png",
-            "alt": "technical support",
-            "heading": "Monitoring Ranking",
-            "paragraph": "Efficiently track and improve your website's rankings with our comprehensive monitoring services. We ensure your website climbs the ranks and maintains a strong online presence.",
-            "button": "Read More"
+            "image": false,
+            "heading": "On-site Testing",
+            "paragraph": false,
+            "list" : ["Remote User Testing", "Accessibility Compliance", "Usability Compliance"],
+            "button": false
         },
         {
-            "image": "./src/assets/technical-support.png",
-            "alt": "technical support",
-            "heading": "Code Optimization",
-            "paragraph": "Enhance your website's performance through streamlined and efficient code optimization. Our techniques improve loading times and user experience.",
-            "button": "Read More"
-        },
-        {
-            "image": "./src/assets/technical-support.png",
-            "alt": "technical support",
-            "heading": "NAP Syndication",
-            "paragraph": "Ensure consistent NAP (Name, Address, Phone Number) data across various online platforms. We help maintain accurate business information across the web",
-            "button": "Read More"
+            "image": false,
+            "alt": false,
+            "heading": "Product launch",
+            "paragraph": "At last, the item is dispatched on the lookout. We give unswerving client care and complete specialized help even after the last dispatch.",
+            "list" : ["End-user feedback", "Analysis ", "Continuous improvement"],
+            "button": false
         }
     ]
 }

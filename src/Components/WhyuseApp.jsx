@@ -1,4 +1,6 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
+
 
 function WhyuseApp({data}) {
   return (
@@ -9,7 +11,7 @@ function WhyuseApp({data}) {
                     <div className="col-lg-6 col-12">
                         <h2 className='py-4'>{data["heading"]}</h2>
                         <p className='py-4 pe-5'>{data["paragraph"]}</p>
-                        <a className='py-3'><img src={data["button"]["image"]} alt={data["button"]["alt"]} className='img-fluid'/><div>{data["button"]["text"]}<br/><span>{data["button"]["span"]}</span></div></a>
+                        <Link to='/' className='py-3'><img src={data["button"]["image"]} alt={data["button"]["alt"]} className='img-fluid'/><div>{data["button"]["text"]}<br/><span>{data["button"]["span"]}</span></div></Link>
                     </div>
                     <div className="col-lg-6 col-12 pt-lg-0 pt-5">
                         <div className='row whyuseappblock'>

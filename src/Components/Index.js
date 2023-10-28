@@ -15,6 +15,11 @@ import LeftsideimageCTA from "./LeftsideimageCTA";
 import Cardwithpurledot from "./Cardwithpurledot";
 import RightsideimageCTA from "./RightsideimageCTA";
 import Heading from "./Heading";
+import Paragraph from "./Paragraph";
+import LeftImageList from "./LeftImageList";
+import RightImageList from "./RightImageList";
+import Image from "./Image";
+import Cardwithpurpledottc from "./Cardwithpurpledottc";
+import Contactus from "./Contactus";
 
-
-export {Homeslider, Homesectiontwo, Clients, Leftsideimagesection, Twocolumncomp, Threecolcardwithrm, RightsideImagewsh, Whyushomepage, Ctahome, Threecolhome, Genralslider, Rightsideimagesection, WhyuseApp, LeftsideimageCTA , Cardwithpurledot, RightsideimageCTA, Heading}
+export {Homeslider, Homesectiontwo, Clients, Leftsideimagesection, Twocolumncomp, Threecolcardwithrm, RightsideImagewsh, Whyushomepage, Ctahome, Threecolhome, Genralslider, Rightsideimagesection, WhyuseApp, LeftsideimageCTA , Cardwithpurledot, RightsideimageCTA, Heading, Paragraph, LeftImageList, RightImageList,Image, Cardwithpurpledottc, Contactus}

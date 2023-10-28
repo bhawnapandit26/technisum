@@ -1,7 +1,7 @@
 {
     "slider": {
         "heading": "Social Media Optimization Services",
-        "paragraph": "Technisum has emerged as a leading online SMO services provider, boasting a highly skilled team capable of forging meaningful connections by strategically positioning brands on relevant social media platforms, elevating their market presence. Our comprehensive digital marketing services encompass Social Media, allowing brands to engage customers in captivating conversations while delivering prompt responses.",
+        "paragraphOne": "Technisum has emerged as a leading online SMO services provider, boasting a highly skilled team capable of forging meaningful connections by strategically positioning brands on relevant social media platforms, elevating their market presence. Our comprehensive digital marketing services encompass Social Media, allowing brands to engage customers in captivating conversations while delivering prompt responses.",
         "image": "./src/assets/32.png",
         "alt": "android app development",
         "background-image": "./src/assets/Rectangle.png"
@@ -29,20 +29,28 @@
             }
         ]
     },
-    "textSection":{
-        "paragraphOne" : "SMO, or Social SEO, employs strategies to attract unique website visitors via social media, enhancing business ROI and search rankings. Just like traditional advertising, SMO engages audiences, fosters rapport, builds networks, and uses word-of-mouth to amplify messages. SMO creates a lasting buzz, significantly boosting business visibility.",
-        "paragraphTwo" : "Social Media Optimization is key in Online Reputation Management for organizations and individuals valuing their online image. This underlines social media's reach, making SMO an essential tool for digital branding and improved visibility.In addition, our SMO specialists employ effective strategies to engage website visitors, encouraging them to contribute content and enticing them with exclusive offers and discounts. In essence, as an online media marketing agency, we leave no stone unturned in forging a genuine connection between customers and the services we offer.",
-        "paragraphThree" : "In India Average Time Spent By The Indian Users On The Social Network Are 3 Hours Per Month While Google Only Gets 1 Hour 50 Minutes Per Month.",
-        "paragraphFour" : "Technisum's Leading ",
-        "paragraphFive"  :"SMO Services",
-        "paragraphSix" : "Technisum has emerged as a premier online SMO services provider, armed with a highly skilled team adept at forging meaningful connections by positioning brands on relevant social media platforms, thereby enhancing market popularity. Our digital marketing services extend to Social Media, allowing brands to engage customers in captivating conversations while providing swift responses. Our SMO experts employ effective techniques to entice website visitors, encouraging content contribution and captivating them with exclusive offers and discounts. As a dedicated social media marketing agency, we leave no stone unturned in giving a distinct personality to services, fostering authenticity."
-        
+    "paraOne" : {
+        "background" : "#FFF5FD",
+        "padding" : "2rem 0 0 0",
+        "subheading" : "SMO, or Social SEO, employs strategies to attract unique website visitors via social media, enhancing business ROI and search rankings. Just like traditional advertising, SMO engages audiences, fosters rapport, builds networks, and uses 'word-of-mouth' to amplify messages. SMO creates a lasting buzz, significantly boosting business visibility.",
+        "subheadingTwo" : "Social Media Optimization is key in Online Reputation Management for organizations and individuals valuing their online image. This underlines social media's reach, making SMO an essential tool for digital branding and improved visibility.In addition, our SMO specialists employ effective strategies to engage website visitors, encouraging them to contribute content and enticing them with exclusive offers and discounts. In essence, as an online media marketing agency, we leave no stone unturned in forging a genuine connection between customers and the services we offer."
+    },
+    "paraTwo"  :{
+        "background" : "#FFF5FD",
+        "padding" : "0rem 0",
+        "small-heading" : "In India Average Time Spent By The Indian Users On The Social Network Are 3 Hours Per Month While Google Only Gets 1 Hour 50 Minutes Per Month."
+    },
+    "paraThree" : {
+        "background" : "#FFF5FD",
+        "padding" : "0 0 2rem 0",
+        "heading" : "Technisum's Leading SMO Services",
+        "subheading" : "Technisum has emerged as a premier online SMO services provider, armed with a highly skilled team adept at forging meaningful connections by positioning brands on relevant social media platforms, thereby enhancing market popularity. Our digital marketing services extend to Social Media, allowing brands to engage customers in captivating conversations while providing swift responses. Our SMO experts employ effective techniques to entice website visitors, encouraging content contribution and captivating them with exclusive offers and discounts. As a dedicated social media marketing agency, we leave no stone unturned in giving a distinct personality to services, fostering authenticity."
     },
     "leftImageSection": {
         "image": "./src/assets/21.png",
         "alt": "technisum",
         "heading": "Social Media Optimization Services",
-        "paragraph": false
+        "paragraphOne": false
     },
     "cards-two": {
         "card": [

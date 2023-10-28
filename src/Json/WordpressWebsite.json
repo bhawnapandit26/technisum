@@ -1,12 +1,15 @@
 {
     "slider": {
-        "heading": "The Best Dynamic Website Development company",
-        "paragraph": "It is crucial for website owners to maintain their sites updated in light of shifting technology, fashion, and consumer preferences. A dynamic website makes all of this simple to do. You can choose a website for your company at Technisum from a variety of templates. A dynamic website gives you the flexibility to alter it whenever you need to. They display different content on various pages, unlike static websites. Visitors never grow bored since they are always engaged in something.",
-        "image": "./src/assets/32.png",
+        "heading": "WordPress Development Company",
+        "paragraphOne": "As a leading provider of web development services, we skillfully craft digital solutions from conception through deployment, data migration, API integrations, and plugin creation. For clients who want improved business outcomes, we create WordPress websites that are high-performing and simple to operate.",
+        "paragraphTwo" : false,
+        "image": "./src/assets/48.png",
         "alt": "android app development",
         "background-image": "./src/assets/Rectangle.png"
     },
     "headings": {
+        "background" : "#FFF5FD",
+        "padding" : "6rem 0",
         "heading": "Why Choose Technisum?",
         "subheading": "Pick a partner who completes the task. There are numerous benefits to choosing us, but we'll only highlight six."
     },
@@ -36,20 +39,22 @@
     },
     "ctaLeftImage": {
         "heading": "Hire WordPress Developers",
-        "paragraph": "We are able to offer you WordPress solutions that can boost the success of your company and give it a long-lasting competitive advantage thanks to the ideal combination of our extensive knowledge, skill, access to the newest tools, and creative flair.",
-        "image": "./src/assets/41.png",
+        "paragraphOne": "We are able to offer you WordPress solutions that can boost the success of your company and give it a long-lasting competitive advantage thanks to the ideal combination of our extensive knowledge, skill, access to the newest tools, and creative flair.",
+        "image": "./src/assets/39.png",
         "alt": "technisum",
         "button": "Ask for a Quote",
-        "background": "#FFF5FD",
+        "background": "#FFF",
         "card": false
     },
     "ctaRightImage": {
         "heading": "Grow your agency's digital presence",
-        "paragraph": "In order to create scalable and safe websites, our WordPress developers adhere to clean and clear code standards. As a result, committed project managers assist you with efficient allocation of responsibility for your WordPress development services. You can choose a project-based approach or manage your projects on your own by hiring staff members using our dedicated resources model.",
-        "image": "./src/assets/41.png",
+        "paragraph": [{
+            "paragraph" : "In order to create scalable and safe websites, our WordPress developers adhere to clean and clear code standards. As a result, committed project managers assist you with efficient allocation of responsibility for your WordPress development services. You can choose a project-based approach or manage your projects on your own by hiring staff members using our dedicated resources model."
+        }],
+        "image": "./src/assets/38.png",
         "alt": "technisum",
         "button": "Contact Us Now",
-        "background": "#FFF5FD",
+        "background": "#FFF",
         "card": false
     }
 }

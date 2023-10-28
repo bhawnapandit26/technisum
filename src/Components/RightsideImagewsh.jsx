@@ -3,6 +3,7 @@ import React from 'react'
 function RightsideImagewsh({data}) {
   return (
     <>
+    
         <div className="container py-5">
             <div className="row pb-5 align-items-center">
                 <div className="col-lg-6 col-12">

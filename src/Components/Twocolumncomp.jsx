@@ -3,8 +3,8 @@ import React from 'react'
 function Twocolumncomp({data}) {
   return (
     <>
-      <div className='container pb-5'>
-        <div className='row pb-5'>
+      <div className='container py-5'>
+        <div className='row'>
           {
             data.map((item)=>{
               return(

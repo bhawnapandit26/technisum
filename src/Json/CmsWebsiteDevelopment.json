@@ -1,8 +1,8 @@
 {
     "slider": {
         "heading": "CMS Website Development",
-        "paragraph": "Welcome to our CMS website development services! We specialize in creating powerful and user-friendly content management systems that empower businesses to take control of their online presence. With our expertise, you can enjoy the flexibility and convenience of managing your website's content effortlessly.",
-        "image": "./src/assets/32.png",
+        "paragraphOne": "Welcome to our CMS website development services! We specialize in creating powerful and user-friendly content management systems that empower businesses to take control of their online presence. With our expertise, you can enjoy the flexibility and convenience of managing your website's content effortlessly.",
+        "image": "./src/assets/34.png",
         "alt": "android app development",
         "background-image": "./src/assets/Rectangle.png"
     },
@@ -56,8 +56,13 @@
     ],
     "ctaRightImage": {
         "heading": "CTA",
-        "paragraph": "Experience the convenience and control of managing your website effortlessly with our CMS website development services. Contact us today to discuss your project requirements and let us create a robust, user-friendly, and scalable CMS platform tailored to your business needs.",
-        "image": "./src/assets/41.png",
+        "paragraph": [{
+            "paragraph" : "Experience the convenience and control of managing your website effortlessly with our CMS website development services."
+        },
+        {
+            "paragraph" : "Contact us today to discuss your project requirements and let us create a robust, user-friendly, and scalable CMS platform tailored to your business needs."
+        }],
+        "image": "./src/assets/10.png",
         "alt": "technisum",
         "button": "Let's Get Started",
         "background": "#FFF5FD",

@@ -1,6 +1,14 @@
 {
     "headings" : {
         "heading" : "Contact Us ",
-        "paragraph" : "Any question or remarks? Just write us a message!"
+        "subheading" : "Any question or remarks? Just write us a message!"
+    },
+    "card" : {
+        "background-image" : "./src/assets/contact-bg.png",
+        "heading" : "Contact Information",
+        "subheading" : "Say something to start a live chat!",
+        "mobile" : "+1012 3456 789",
+        "email" : "demo@gmail.com",
+        "address" : "132 Dartmouth Street Boston, Massachusetts 02156 United States"
     }
 }

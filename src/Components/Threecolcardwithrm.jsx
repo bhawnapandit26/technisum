@@ -1,30 +1,40 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 
-function Threecolcardwithrm({data}) {
-  return (
-    <>
-        <div className="container pb-5">
-            <div className="row pb-5">
-                {
-                    data.map((item)=>{
-                        return(
-                            <div className='col-xl-4 col-md-6 col-12 my-4 px-4'>
-                                <div className='shdwcardwrm d-flex flex-column justify-content-between'>
-                                    <div>
-                                    <div><img src={item["image"]} alt={item["alt"]} className='img-fluid'/></div>
-                                    <h4 className='py-3'>{item["heading"]}</h4>
-                                    <p className='cardParagraph pb-5'>{item["paragraph"]}</p>
-                                    </div>                                   
-                                    {item["button"] ? (<a>{item["button"]}</a>) : null}
+function Threecolcardwithrm({ data }) {
+    return (
+        <>
+            <div className="container py-5">
+                <div className="row">
+                    {
+                        data.map((item) => {
+                            return (
+                                <div className='col-xl-4 col-md-6 col-12 my-4 px-4'>
+                                    <div className='shdwcardwrm d-flex flex-column justify-content-between'>
+                                        <div>
+                                            {item["image"] ? (<div><img src={item["image"]} alt={item["alt"]} className='img-fluid' /></div>) : null}
+                                            {item["heading"] ? (<h4 className='py-3'>{item["heading"]}</h4>) : null}
+                                            {item["paragraph"] ? (<p className='cardParagraph pb-5'>{item["paragraph"]}</p>) : null}
+                                            {item["list"] ? (
+                                                <ul>
+                                                {item["list"].map((item)=>{
+                                                  return(
+                                                    <li>{item}</li>
+                                                  );
+                                                })}
+                                              </ul>
+                                            ) : null}
+                                        </div>
+                                        {item["button"] ? (<Link to='/'>{item["button"]}</Link>) : null}
+                                    </div>
                                 </div>
-                            </div>
-                        );
-                    })
-                }
+                            );
+                        })
+                    }
+                </div>
             </div>
-        </div>
-    </>
-  )
+        </>
+    )
 }
 
 export default Threecolcardwithrm

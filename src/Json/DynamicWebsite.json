@@ -1,7 +1,8 @@
 {
     "slider": {
         "heading": "The Best Dynamic Website Development company",
-        "paragraph": "It is crucial for website owners to maintain their sites updated in light of shifting technology, fashion, and consumer preferences. A dynamic website makes all of this simple to do. You can choose a website for your company at Technisum from a variety of templates. A dynamic website gives you the flexibility to alter it whenever you need to. They display different content on various pages, unlike static websites. Visitors never grow bored since they are always engaged in something.",
+        "paragraphOne": "It is crucial for website owners to maintain their sites updated in light of shifting technology, fashion, and consumer preferences. A dynamic website makes all of this simple to do. You can choose a website for your company at Technisum from a variety of templates. ",
+        "paragraphTwo" : "A dynamic website gives you the flexibility to alter it whenever you need to. They display different content on various pages, unlike static websites. Visitors never grow bored since they are always engaged in something.",
         "image": "./src/assets/32.png",
         "alt": "android app development",
         "background-image": "./src/assets/Rectangle.png"
@@ -10,13 +11,15 @@
         "image": "./src/assets/22.png",
         "alt": "technisum",
         "heading": "Website development",
-        "paragraph": "To develop beautiful material design with numerous dynamic UI components out of the box, we leverage sophisticated and responsive frameworks like Materialised / Bootstrap. Our developers, who are knowledgeable in the newest frameworks for CSS, SaaS, JavaScript, jQuery, and SVG Icon Library, make sure that your website provides a rich user experience."
+        "paragraphOne": "To develop beautiful material design with numerous dynamic UI components out of the box, we leverage sophisticated and responsive frameworks like Materialised / Bootstrap. Our developers, who are knowledgeable in the newest frameworks for CSS, SaaS, JavaScript, jQuery, and SVG Icon Library, make sure that your website provides a rich user experience."
     },
     "rightImageSection": {
         "image": "./src/assets/21.png",
         "alt": "technisum",
         "heading": "Motion UI",
-        "paragraph": "Motion UI boosts website user engagement. It may contain a variety of components, including images, text, movies, and shapes. It is used in a variety of contexts, including user welcomes, navigation and transitions, system notifications, action results, etc."
+        "paragraph": [{
+            "paragraph" : "Motion UI boosts website user engagement. It may contain a variety of components, including images, text, movies, and shapes. It is used in a variety of contexts, including user welcomes, navigation and transitions, system notifications, action results, etc."
+        }]
     },
     "headings": {
         "heading": "Web Design That Will Displace Your Competition!",
