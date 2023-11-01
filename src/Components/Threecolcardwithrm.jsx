@@ -25,7 +25,7 @@ function Threecolcardwithrm({ data }) {
                                               </ul>
                                             ) : null}
                                         </div>
-                                        {item["button"] ? (<Link to='/'>{item["button"]}</Link>) : null}
+                                        {item["button"] ? (<Link to={item["btn-link"]}>{item["button"]}</Link>) : null}
                                     </div>
                                 </div>
                             );

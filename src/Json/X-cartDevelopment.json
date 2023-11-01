@@ -37,12 +37,12 @@
             {
                 "heading": "Responsive & Mobile Commerce Ready",
                 "paragraph": "Our websites are designed to be responsive, providing seamless browsing experiences across various devices. With mobile commerce integration, you can tap into the growing mobile market.",
-                "background": "#fff"
+                "background": "radial-gradient(circle, rgba(68, 68, 68, 0.15) 0%, rgba(68, 68, 68, 0.05) 35%, rgba(88, 83, 83, 0.04) 100%)"
             },
             {
                 "heading": "Multichannel Sales Strategy",
                 "paragraph": "Enhance customer engagement and boost sales by expanding your reach to platforms like Amazon, Pinterest, and Facebook. Our tailored strategies maximize your visibility in these diverse markets.",
-                "background": "#fff"
+                "background": "radial-gradient(circle, rgba(68, 68, 68, 0.15) 0%, rgba(68, 68, 68, 0.05) 35%, rgba(88, 83, 83, 0.04) 100%)"
             },
             {
                 "heading": "Multi-Channel Shopping Cart",

@@ -11,7 +11,7 @@ function Cardwithpurledot({ data }) {
                             return (
                                 <div key={index} className='col-md-6 col-12 my-4 px-4'>
                                     <div className='cardpurpledot d-flex flex-column justify-content-between'
-                                        style={{ backgroundColor: `${item["background"]}` }}>
+                                        style={{ background: `${item["background"]}` }}>
                                         <div>
                                             <div className='purpleDot'></div>
                                             <h4 className='py-3'>{item["heading"]}</h4>

@@ -11,7 +11,7 @@ function Footer() {
                         <div className="row">
                             <div className="col-xl-3 col-12 py-3">
                                 <img src="./src/assets/Logo.png" alt="Logo" className='mb-5' />
-                                <p className='copyrightSection pb-5 mb-5'>Copyright © 2023 Technisum Web Solitions<br />All rights reserved</p>
+                                <p className='copyrightSection mb-5'>Copyright © 2023 Technisum Web Solitions<br />All rights reserved</p>
                                 <div>
                                     <Link to="/" className='me-3 text-decoration-underline'>Terms</Link>
                                     <Link to="/" className='me-3 text-decoration-underline'>Privacy</Link>
@@ -20,36 +20,19 @@ function Footer() {
                             </div>
                             <div className="col-xl-6 col-12 px-xl-5 py-3">
                                 <div className='row'>
-                                    <div className='footerList col-lg-4 col-12'>
+                                    <div className='footerList col-lg-6 col-12'>
                                         <h6>Services</h6>
                                         <ul>
                                             <li><Link to="android-app-development">Android App Development</Link></li>
-                                            <li><Link to="ios-app-development">iOS App Development</Link></li>
-                                            <li><Link to="flutter-development">Flutter Development</Link></li>
-                                            <li><Link to="static-website">Static Website</Link></li>
                                             <li><Link to="dynamic-website">Dynamic Website</Link></li>
-                                            <li><Link to="woocommerce-website">WooCommerce Website</Link></li>
-                                        </ul>
-                                    </div>
-                                    <div className='footerList col-lg-4 col-12'>
-                                        <h6>Services</h6>
-                                        <ul>
                                             <li><Link to="wordpress-website">WordPress Website</Link></li>
-                                            <li><Link to="custom-website">Custom Website</Link></li>
-                                            <li><Link to="cms-website-development">CMS Development</Link></li>
-                                            <li><Link to="shopify-ecommerce-store">Shopify E-Commerce</Link></li>
-                                            <li><Link to="magento-ecommerce">Magento Ecommerce</Link></li>
-                                            <li><Link to="magento-customization">Magento Customization</Link></li>
                                             <li><Link to="woocommerce-website">WooCommerce Website</Link></li>
                                         </ul>
                                     </div>
-                                    <div className='footerList col-lg-4 col-12'>
-                                        <h6>Services</h6>
+                                    <div className='footerList col-lg-6 col-12'>
+                                        <h6></h6>
                                         <ul>
                                             <li><Link to="seo">SEO</Link></li>
-                                            <li><Link to="smo">SMO</Link></li>
-                                            <li><Link to="smm">SMM</Link></li>
-                                            <li><Link to="sem">SEM</Link></li>
                                             <li><Link to="google-analytics">Google Analytics</Link></li>
                                             <li><Link to="it-consulting">IT Consulting</Link></li>
                                             <li><Link to="e-consultants">E-consultants</Link></li>

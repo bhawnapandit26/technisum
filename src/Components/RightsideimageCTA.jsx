@@ -27,7 +27,7 @@ function RightsideimageCTA({ data }) {
                                     })       
                             ): null}
                             {data["card"] ? (<div className='cta-card  my-5'>{data["card"]}</div>) : null}
-                            {data["button"] ? (<Link to="" className='pageButton'>{data["button"]}</Link>) : null}
+                            {data["button"] ? (<Link to={data["btn-link"]} className='pageButton'>{data["button"]}</Link>) : null}
 
                         </div>
                         <div className='col-xl-6 col-12 py-2'>

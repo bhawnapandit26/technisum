@@ -18,7 +18,7 @@ function LeftsideimageCTA({ data }) {
                             {data["paragraphOne"] ? (<p className='px-xl-5 pb-5'>{data["paragraphOne"]}</p>) : null}
                             {data["paragraphTwo"] ? (<p className='px-xl-5 pb-5'>{data["paragraphTwo"]}</p>) : null}
                             {data["card"] ? (<div className='cta-card'>{data["card"]}</div>) : null}
-                            {data["button"] ? (<Link to="/" className='mx-xl-5 pageButton'>{data["button"]}</Link>) : null}
+                            {data["button"] ? (<Link to={data["btn-link"]} className='mx-xl-5 pageButton'>{data["button"]}</Link>) : null}
 
                         </div>
                     </div>

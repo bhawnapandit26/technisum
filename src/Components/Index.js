@@ -21,5 +21,7 @@ import RightImageList from "./RightImageList";
 import Image from "./Image";
 import Cardwithpurpledottc from "./Cardwithpurpledottc";
 import Contactus from "./Contactus";
+import SeoContact from "./SeoContact";
+import SemCards from "./SemCards";
 
-export {Homeslider, Homesectiontwo, Clients, Leftsideimagesection, Twocolumncomp, Threecolcardwithrm, RightsideImagewsh, Whyushomepage, Ctahome, Threecolhome, Genralslider, Rightsideimagesection, WhyuseApp, LeftsideimageCTA , Cardwithpurledot, RightsideimageCTA, Heading, Paragraph, LeftImageList, RightImageList,Image, Cardwithpurpledottc, Contactus}
+export {Homeslider, Homesectiontwo, Clients, Leftsideimagesection, Twocolumncomp, Threecolcardwithrm, RightsideImagewsh, Whyushomepage, Ctahome, Threecolhome, Genralslider, Rightsideimagesection, WhyuseApp, LeftsideimageCTA , Cardwithpurledot, RightsideimageCTA, Heading, Paragraph, LeftImageList, RightImageList,Image, Cardwithpurpledottc, Contactus, SeoContact, SemCards}

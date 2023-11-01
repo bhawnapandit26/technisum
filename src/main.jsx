@@ -59,7 +59,7 @@ const router = createBrowserRouter(
         <Route path='google-analytics' element={<GoogleAnalytics />} />
         <Route path='uiux-design' element={<UIUxdesign />} />
         <Route path='it-consulting' element={<ITConsulting />} />
-      <Route path='about' element={<Home />} />
+      <Route path='about' element={<Services />} />
       <Route path='pricing' element={<Home />} />
       <Route path='contact-us' element={<ContactUs />} />
     </Route>

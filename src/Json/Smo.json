@@ -2,7 +2,7 @@
     "slider": {
         "heading": "Social Media Optimization Services",
         "paragraphOne": "Technisum has emerged as a leading online SMO services provider, boasting a highly skilled team capable of forging meaningful connections by strategically positioning brands on relevant social media platforms, elevating their market presence. Our comprehensive digital marketing services encompass Social Media, allowing brands to engage customers in captivating conversations while delivering prompt responses.",
-        "image": "./src/assets/32.png",
+        "image": "./src/assets/56.png",
         "alt": "android app development",
         "background-image": "./src/assets/Rectangle.png"
     },
@@ -47,7 +47,7 @@
         "subheading" : "Technisum has emerged as a premier online SMO services provider, armed with a highly skilled team adept at forging meaningful connections by positioning brands on relevant social media platforms, thereby enhancing market popularity. Our digital marketing services extend to Social Media, allowing brands to engage customers in captivating conversations while providing swift responses. Our SMO experts employ effective techniques to entice website visitors, encouraging content contribution and captivating them with exclusive offers and discounts. As a dedicated social media marketing agency, we leave no stone unturned in giving a distinct personality to services, fostering authenticity."
     },
     "leftImageSection": {
-        "image": "./src/assets/21.png",
+        "image": "./src/assets/38.png",
         "alt": "technisum",
         "heading": "Social Media Optimization Services",
         "paragraphOne": false
@@ -57,32 +57,38 @@
             {
                 "heading": "Fraud Management",
                 "paragraph": "Our robust fraud management system ensures a secure environment for your transactions, effectively safeguarding your business and customers from potential threats.",
-                "background": "#fff"
+                "background": "#fff",
+                "button" : false
             },
             {
                 "heading": "Responsive & Mobile Commerce Ready",
                 "paragraph": "Our websites are designed to be responsive, providing seamless browsing experiences across various devices. With mobile commerce integration, you can tap into the growing mobile market.",
-                "background": "#fff"
+                "background": "#fff",
+                "button" : false
             },
             {
                 "heading": "Multichannel Sales Strategy",
                 "paragraph": "Enhance customer engagement and boost sales by expanding your reach to platforms like Amazon, Pinterest, and Facebook. Our tailored strategies maximize your visibility in these diverse markets.",
-                "background": "#fff"
+                "background": "#fff",
+                "button" : false
             },
             {
                 "heading": "Multi-Channel Shopping Cart",
                 "paragraph": "Amplify your presence by extending your sales to eBay and Amazon. Our multi-channel shopping cart empowers you to capture a wider audience and increase your sales opportunities.",
-                "background": "#fff"
+                "background": "#fff",
+                "button" : false
             },
             {
                 "heading": "Multichannel Sales Strategy",
                 "paragraph": "Enhance customer engagement and boost sales by expanding your reach to platforms like Amazon, Pinterest, and Facebook. Our tailored strategies maximize your visibility in these diverse markets.",
-                "background": "#fff"
+                "background": "#fff",
+                "button" : false
             },
             {
                 "heading": "Multi-Channel Shopping Cart",
                 "paragraph": "Amplify your presence by extending your sales to eBay and Amazon. Our multi-channel shopping cart empowers you to capture a wider audience and increase your sales opportunities.",
-                "background": "#fff"
+                "background": "#fff",
+                "button" : false
             }
         ]
     }

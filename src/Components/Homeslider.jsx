@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link} from "react-router-dom";
 
 function Homeslider({data}) {
 
@@ -9,7 +10,7 @@ function Homeslider({data}) {
                 <div className='col'>
                     <div className='sliderSubheading'>{data["smallHeading"]}</div>
                     <div className='sliderHeading'>{data["heading"]}</div>
-                    <div><button type='button' className='sliderButton'>{data["button"]}</button></div>
+                    <div><Link to='contact-us' className='sliderButton'>{data["button"]}</Link></div>
                 </div>
                 <div className='col'>
                     <img src={data["image"]} alt="" className='float-end img-fluid'/>

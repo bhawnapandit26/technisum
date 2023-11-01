@@ -23,12 +23,12 @@
             {
                 "heading": "Competitive Pricing",
                 "paragraph": "You may get the best WordPress development services from us at affordable prices. Regardless of the scale, scope, or size of the project, our objective is to produce a ROI.",
-                "background": "#fff"
+                "background": "radial-gradient(circle, rgb(68 68 68 / 15%) 0%, rgb(68 68 68 / 5%) 35%, rgb(88 83 83 / 4%) 100%)"
             },
             {
                 "heading": "Rich Experience",
                 "paragraph": "We work in a way that is customer-focused, unlike other companies. Instead of imposing what we know, we work hard to gain a thorough grasp of your needs and your company's objectives so that we can provide you the most creative solutions and get you the outcomes you want.",
-                "background": "#fff"
+                "background": "radial-gradient(circle, rgb(68 68 68 / 15%) 0%, rgb(68 68 68 / 5%) 35%, rgb(88 83 83 / 4%) 100%)"
             },
             {
                 "heading": "Customer-Focused Work Approach",
@@ -43,6 +43,7 @@
         "image": "./src/assets/39.png",
         "alt": "technisum",
         "button": "Ask for a Quote",
+        "btn-link" : "/contact-us",
         "background": "#FFF",
         "card": false
     },
@@ -54,6 +55,7 @@
         "image": "./src/assets/38.png",
         "alt": "technisum",
         "button": "Contact Us Now",
+        "btn-link" : "/contact-us",
         "background": "#FFF",
         "card": false
     }

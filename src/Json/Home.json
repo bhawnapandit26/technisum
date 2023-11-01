@@ -16,14 +16,16 @@
                 "alt": "digital marketing",
                 "heading": "Digital Marketing ",
                 "paragraph": "Enables brands to communicate and interface with their audiences in a much better way.",
-                "button": "Read More"
+                "button": "Read More",
+                "btn-link" : "google-analytics"
             },
             {
                 "image": "./src/assets/coding.png",
                 "alt": "coding",
                 "heading": "Smart Coding Development",
                 "paragraph": "Our coding specialists will help your brand stand out and effectively deliver its message.",
-                "button": "Read More"
+                "button": "Read More",
+                "btn-link" : "e-consultants"
             }
         ]
     },
@@ -63,42 +65,48 @@
             "alt": "digital marketing",
             "heading": "Digital Marketing",
             "paragraph": "Influence, involve, and expand your social media following",
-            "button": "Read More"
+            "button": "Read More",
+            "btn-link" : "google-analytics"
         },
         {
             "image": "./src/assets/coding-1.png",
             "alt": "coding",
             "heading": "Web Designing & Development",
             "paragraph": "With our innovative designs, you can stand out from the competition and successfully ",
-            "button": "Read More"
+            "button": "Read More",
+            "btn-link" : "cms-website-development"
         },
         {
             "image": "./src/assets/app-development-1.png",
             "alt": "app development",
             "heading": "Mobile App Development",
             "paragraph": "Launch your iOS and Android apps simultaneously",
-            "button": "Read More"
+            "button": "Read More",
+            "btn-link" : "android-app-development"
         },
         {
             "image": "./src/assets/web-design-1.png",
             "alt": "web design",
             "heading": "Graphic Designing",
             "paragraph": "The Team's major area of focus is info graphics, which are essential for the website's design and life.",
-            "button": "Read More"
+            "button": "Read More",
+            "btn-link" : "/"
         },
         {
             "image": "./src/assets/ui.png",
             "alt": "ui",
             "heading": "UI & UX Design",
             "paragraph": "We provide the top UI/UX design services in accordance with customer needs",
-            "button": "Read More"
+            "button": "Read More",
+            "btn-link" : "uiux-design"
         },
         {
             "image": "./src/assets/technical-support.png",
             "alt": "technical support",
             "heading": "IT Service Consulting",
             "paragraph": "Aligning your IT resources with both existing and future business objectives is our goal",
-            "button": "Read More"
+            "button": "Read More",
+            "btn-link": "it-consulting"
         }
     ],
     "rightSideImageSection": {
@@ -134,25 +142,25 @@
         "paragraph": "At technisum, we genuinely think that by producing some of the best work currently available on the web, our team of accomplished designers, developers, and marketers are using their interests to good effect. Our work is what we are passionate about, and it shows.",
         "card": [
             {
-                "image": "./src/assets/solution-1.png",
+                "image": "./src/assets/Group 730.png",
                 "alt": "creative idea",
                 "heading": "Creative Ideas",
                 "paragraph": "Purabitur massa tortor, ornare at mi sed luctus eleifend lorem."
             },
             {
-                "image": "./src/assets/graphic-design-1.png",
+                "image": "./src/assets/Group 729.png",
                 "alt": "awesome design",
                 "heading": "Awesome Design",
                 "paragraph": "In mollis consectetur pulvinar. Curabitur sed sagittis dui."
             },
             {
-                "image": "./src/assets/feature-1.png",
+                "image": "./src/assets/Group 731.png",
                 "alt": "beast features",
                 "heading": "Best Features",
                 "paragraph": "Nullam venenatis luctus fringilla. Morbi a pellentesque metus."
             },
             {
-                "image": "./src/assets/concept-1.png",
+                "image": "./src/assets/Group 732.png",
                 "alt": "easy solutions",
                 "heading": "Easy Solutions",
                 "paragraph": "Etiam porttitor bibendum egestas. Proin quis laoreet mauris."

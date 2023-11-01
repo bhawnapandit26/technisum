@@ -72,6 +72,7 @@
         "image": "./src/assets/40.png",
         "alt": "",
         "button": "Explore More",
+        "btn-link" : "/contact-us",
         "card": false,
         "background": "#fff"
     }

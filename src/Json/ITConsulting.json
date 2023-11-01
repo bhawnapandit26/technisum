@@ -1,8 +1,9 @@
 {
     "slider": {
-        "heading": "Sales Optimization & Data Analysis",
-        "paragraphOne": "At Technisum, our focus on Sales Optimization and Data Analysis is unwavering. We deliver high-quality Search Engine Optimization strategies crafted by our dedicated SEO specialists, guaranteeing optimal lead generation for your business. Beyond excelling in Social Media Marketing, we recognize the individual essence of each business, demanding a custom approach. In the dynamic landscape of online media, diverse interactions and distinct strategies are pivotal for the success of every business type.",
-        "image": "./src/assets/32.png",
+        "heading": "Is Your Company Ready for the Future? Ask Me How, I Can Help You!s",
+        "paragraphOne": "Consult Me Now!",
+        "paragraphTwo" : "Embracing the Digital Shift with Technisum",
+        "image": "./src/assets/54.png",
         "alt": "android app development",
         "background-image": "./src/assets/Rectangle.png"
     },
@@ -36,23 +37,23 @@
     },
     "sahdowCards": [
         {
-            "heading": "Research",
-            "paragraph": "At this stage, we look to find the information holes and backing your presumptions with the genuine client assumptions. We assist you with finding some kind of harmony between the client needs and your business objectives. Every one of our expectations depend on broad examination of the objective market, contenders and dynamic economic situations."
+            "heading": "CONSULTING",
+            "paragraph": "Navigating the digital landscape can be overwhelming. Our expert consulting services provide you with the insights and guidance you need to make informed decisions, ensuring your business thrives in the ever-evolving online world."
         },
         {
             
-            "heading": "Planning",
-            "paragraph": "Arranging includes making powerful model or outline, otherwise called wireframe, to visualize the comprehensive look of your item. Our keen group is significantly knowledgeable about planning complete wireframes to guarantee that the right data is gotten to in the correct way at the ideal spot."
+            "heading": "DIGITAL MARKETING",
+            "paragraph": "Unlock the full potential of digital marketing. Our strategic approach maximizes your online reach, driving traffic, engagement, and conversions. From social media to SEO, we tailor strategies to boost your brand's impact."
         },
         {
             
-            "heading": "Visual design/ User interface design",
-            "paragraph": "Visual plan gives a face to your image. It centers around the feel of the item that are liable for conveying your plan to the crowd. With a profound comprehension of different business conditions, our talented fashioners manufacture clever fixes to suitably pass on your business destinations and assemble a passionate interface with the clients."
+            "heading": "TOOLS",
+            "paragraph": "Empower your business with cutting-edge digital tools. Our suite of resources streamlines processes, enhances efficiency, and propels growth. These tools are designed to give you a competitive edge in the digital realm."
         },
         {
            
-            "heading": "Development",
-            "paragraph": "This includes the method involved with changing the plan into a completely practical item. Our frontend designers hold significant skill in all the coding advances like HTML, CSS and JavaScript. We guarantee that your item is intelligent, excellent and according to industry principles."
+            "heading": "WEB DESIGN",
+            "paragraph": "Capture your audience's attention with captivating web design. We create visually stunning and user-friendly websites that leave a lasting impression. Your online presence will not only look impressive but also drive meaningful interactions."
         }
     ]
 }

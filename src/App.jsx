@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-      <div className="position-relative">
+      <div className="position-relative body-wrapper">
       <Header/>
       <Outlet/>
       {/* <Home/> */}

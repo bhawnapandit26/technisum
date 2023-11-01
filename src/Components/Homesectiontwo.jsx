@@ -4,6 +4,7 @@ import { Link } from 'react-router-dom'
 
 function Homesectiontwo({data}) {
     return (
+
         <>
             <div className='container py-md-5'>
                 <div className='row'>
@@ -24,7 +25,7 @@ function Homesectiontwo({data}) {
                                     <p className='cardParagraph py-4'>
                                         {card["paragraph"]}
                                     </p>
-                                    <Link to='/'> {card["button"]}</Link>
+                                    <Link to={card["btn-link"]}> {card["button"]}</Link>
                                 </div>
                             );
                         })}

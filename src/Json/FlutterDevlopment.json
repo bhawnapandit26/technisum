@@ -50,12 +50,12 @@
             {
                 "heading": "Expressive and flexible UI",
                 "paragraph": "Create responsive apps with an engaging and appealing user interface thanks to Material Design and Cupertino Widgets.",
-                "background": "#fff"
+                "background": "radial-gradient(circle, rgb(68 68 68 / 15%) 0%, rgb(68 68 68 / 5%) 35%, rgb(88 83 83 / 4%) 100%)"
             },
             {
                 "heading": "Proprietary Widgets",
                 "paragraph": "A selection of widgets from Flutter make it easier to create apps that adhere to Material Design.",
-                "background": "#fff"
+                "background": "radial-gradient(circle, rgb(68 68 68 / 15%) 0%, rgb(68 68 68 / 5%) 35%, rgb(88 83 83 / 4%) 100%)"
             },
             {
                 "heading": "Scalability Friendly and Single Codebase",
