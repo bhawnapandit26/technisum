@@ -6,7 +6,7 @@ function Footer() {
     return (
         <>
             <footer className='py-5'>
-                <div className="container-fluid py-5">
+                <div className="container-fluid">
                     <div className="container">
                         <div className="row">
                             <div className="col-xl-3 col-12 py-3">
@@ -30,8 +30,7 @@ function Footer() {
                                         </ul>
                                     </div>
                                     <div className='footerList col-lg-6 col-12'>
-                                        <h6></h6>
-                                        <ul>
+                                        <ul className='mt-5'>
                                             <li><Link to="seo">SEO</Link></li>
                                             <li><Link to="google-analytics">Google Analytics</Link></li>
                                             <li><Link to="it-consulting">IT Consulting</Link></li>
@@ -42,7 +41,7 @@ function Footer() {
 
                             </div>
                             <div className="col-xl-3 col-12 py-3">
-                                <h6>Subcribe to our newsletter</h6>
+                                <h6 className='mb-3'>Subcribe to our newsletter</h6>
                                 <p className='mb-3'>Funding freemium long tail hypotheses first mover advantage assets ownership</p>
                                 <p className='fw-bold mb-3'>Get the freshest news from us</p>
                                 <form action="" className='d-flex'>

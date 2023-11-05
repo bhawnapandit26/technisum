@@ -8,7 +8,7 @@ function Homeslider({data}) {
         <div className='container-fluid slider-bg'>
             <div className='container d-flex justify-content-between flex-xl-row flex-column'>
                 <div className='col'>
-                    <div className='sliderSubheading'>{data["smallHeading"]}</div>
+                    <div className='sliderSubheading mt-xl-5'>{data["smallHeading"]}</div>
                     <div className='sliderHeading'>{data["heading"]}</div>
                     <div><Link to='contact-us' className='sliderButton'>{data["button"]}</Link></div>
                 </div>

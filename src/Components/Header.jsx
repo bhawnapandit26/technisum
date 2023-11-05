@@ -6,7 +6,7 @@ function Header() {
     return (
         <>
             <header >
-                <nav className="navbar navbar-expand-lg py-4">
+                <nav className="navbar navbar-expand-lg py-3">
                     <div className="container ">
                         <div className='d-flex justify-content-between custom-width w-100'>
                             <Link className="navbar-brand" to="/">
