@@ -7,6 +7,7 @@ import App from './App.jsx'
 import './index.css'
 
 import Home from "./Pages/Home";
+import About from './Pages/About.jsx';
 import Services from './Pages/Services.jsx';
 import AndroidAppDev from "./Pages/AndroidAppDev";
 import IosAppDevlopment from "./Pages/IosAppDevlopment";
@@ -31,12 +32,14 @@ import GoogleAnalytics from "./Pages/GoogleAnalytics";
 import UIUxdesign from "./Pages/UIUxdesign";
 import ITConsulting from "./Pages/ITConsulting";
 import ContactUs from "./Pages/ContactUs";
+import Portfolio from './Pages/Portfolio.jsx';
 
 
 const router = createBrowserRouter(
   createRoutesFromElements(
     <Route path='/' element={<App />}>
       <Route path='' element={<Home />} />
+        <Route path='about' element={<About />} />
         <Route path='android-app-development' element={<AndroidAppDev />} />
         <Route path='ios-app-development' element={<IosAppDevlopment />} />
         <Route path='flutter-development' element={<FlutterDevelopment />} />
@@ -60,6 +63,7 @@ const router = createBrowserRouter(
         <Route path='uiux-design' element={<UIUxdesign />} />
         <Route path='it-consulting' element={<ITConsulting />} />
       <Route path='about' element={<Services />} />
+      <Route path='portfolio' element={<Portfolio/>}/>
       <Route path='pricing' element={<Home />} />
       <Route path='contact-us' element={<ContactUs />} />
     </Route>

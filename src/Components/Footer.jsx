@@ -11,12 +11,8 @@ function Footer() {
                         <div className="row">
                             <div className="col-xl-3 col-12 py-3">
                                 <img src="./src/assets/Logo.png" alt="Logo" className='mb-5' />
-                                <p className='copyrightSection mb-5'>Copyright © 2023 Technisum Web Solitions<br />All rights reserved</p>
-                                <div>
-                                    <Link to="/" className='me-3 text-decoration-underline'>Terms</Link>
-                                    <Link to="/" className='me-3 text-decoration-underline'>Privacy</Link>
-                                    <Link to="/" className='me-3 text-decoration-underline'>Claim</Link>
-                                </div>
+                                <p className='copyrightSection mb-5'>Welcome to technisum, where innovation meets expertise in web development. We are a passionate team dedicated to crafting cutting-edge websites and digital solutions tailored to elevate your online presence.</p> 
+                                
                             </div>
                             <div className="col-xl-6 col-12 px-xl-5 py-3">
                                 <div className='row'>
@@ -24,14 +20,22 @@ function Footer() {
                                         <h6>Services</h6>
                                         <ul>
                                             <li><Link to="android-app-development">Android App Development</Link></li>
+                                            <li><Link to="ios-app-developmentt">iOS App Developmen</Link></li>
+                                            <li><Link to="flutter-development">Flutter Development</Link></li>
                                             <li><Link to="dynamic-website">Dynamic Website</Link></li>
                                             <li><Link to="wordpress-website">WordPress Website</Link></li>
                                             <li><Link to="woocommerce-website">WooCommerce Website</Link></li>
+                                            <li><Link to="uiux-desig">UI/Ux design</Link></li>
+                                            <li><Link to="x-cart-developmen">X-cart Development</Link></li>
                                         </ul>
                                     </div>
                                     <div className='footerList col-lg-6 col-12'>
                                         <ul className='mt-5'>
                                             <li><Link to="seo">SEO</Link></li>
+                                            <li><Link to="smo">SMO</Link></li>
+                                            <li><Link to="smm">SMM</Link></li>
+                                            <li><Link to="sem">SEM</Link></li>
+                                            <li><Link to="magento-ecommerce">Magento Ecommerce</Link></li>
                                             <li><Link to="google-analytics">Google Analytics</Link></li>
                                             <li><Link to="it-consulting">IT Consulting</Link></li>
                                             <li><Link to="e-consultants">E-consultants</Link></li>
@@ -41,7 +45,7 @@ function Footer() {
 
                             </div>
                             <div className="col-xl-3 col-12 py-3">
-                                <h6 className='mb-3'>Subcribe to our newsletter</h6>
+                                <h6 className='mb-3'>Subscribe to our newsletter</h6>
                                 <p className='mb-3'>Funding freemium long tail hypotheses first mover advantage assets ownership</p>
                                 <p className='fw-bold mb-3'>Get the freshest news from us</p>
                                 <form action="" className='d-flex'>
@@ -58,7 +62,16 @@ function Footer() {
                                     </svg></button>
 
                                 </form>
+                                <div className='my-5'>
+                                    <Link to="/" className='me-3 text-decoration-underline'>Terms</Link>
+                                    <Link to="/" className='me-3 text-decoration-underline'>Privacy</Link>
+                                    <Link to="/" className='me-3 text-decoration-underline'>Claim</Link>
+                                </div>
                             </div>
+                        </div>
+                        <div className='row'>
+                            <div className='col text-white text-center'>Copyright © 2023 Technisum Web Solutions. All rights reserved</div>
+
                         </div>
                     </div>
                 </div>

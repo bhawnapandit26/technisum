@@ -1,0 +1,70 @@
+{
+    "portfolioCards": [
+        {
+            "image": "./src/assets/Portfolio/affordableinteriordesign.png",
+            "alt": "affordableinteriordesign.png",
+            "heading": "Affordable Interior Design",
+            "link" : "https://affordableinteriordesign.com/"
+        },
+        {
+            "image": "./src/assets/Portfolio/agpnconventerschool.png",
+            "alt": "agpnconventerschool.png",
+            "heading": "AGPN Convent & ER School",
+            "link" : "https://agpnconventerschool.in/"
+        },
+        {
+            "image": "./src/assets/Portfolio/artfabindia.png",
+            "alt": "artfabindia.png",
+            "heading": "Artfab India",
+            "link" : "https://artfabindia.com/"
+        },
+        {
+            "image": "./src/assets/Portfolio/bebranded.png",
+            "alt": "bebranded",
+            "heading": "BE Branded",
+            "link" : "https://bebranded.in"
+        },
+        {
+            "image": "./src/assets/Portfolio/bhutpurvsainikcanteen.png",
+            "alt": "bhutpurvsainikcanteen",
+            "heading": "Bhutpurv Sainik Canteen",
+            "link" : "https://bhutpurvsainikcanteen.com/"
+        },
+        {
+            "image": "./src/assets/Portfolio/biancaidstudio.png",
+            "alt": "biancaidstudio",
+            "heading": "Bianca ID Studio",
+            "link" : "https://biancaidstudio.com/"
+        },
+        {
+            "image": "./src/assets/Portfolio/clophic.png",
+            "alt": "clophic",
+            "heading": "Clophic",
+            "link" : "https://clophic.in/"
+        },
+        {
+            "image": "./src/assets/Portfolio/fadl.png",
+            "alt": "fadl",
+            "heading": "FADL",
+            "link" : "https://fadl.in/"
+        },
+        {
+            "image": "./src/assets/Portfolio/gamlakart.png",
+            "alt": "gamlakart",
+            "heading": "Gamla kart",
+            "link" : "https://gamlakart.com"
+        },
+        {
+            "image": "./src/assets/Portfolio/hariomtoursandtravels.png",
+            "alt": "hariomtoursandtravels",
+            "heading": "Hariom Tours & Travels",
+            "link" : "https://hariomtoursandtravels.in/"
+        },
+        {
+            "image": "./src/assets/Portfolio/hickitchen.png",
+            "alt": "hickitchen",
+            "heading": "HIC kitchen",
+            "link" : "https://www.hickitchen.com/"
+        }
+    ]
+}

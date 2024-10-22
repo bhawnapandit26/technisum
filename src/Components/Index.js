@@ -23,5 +23,7 @@ import Cardwithpurpledottc from "./Cardwithpurpledottc";
 import Contactus from "./Contactus";
 import SeoContact from "./SeoContact";
 import SemCards from "./SemCards";
+import YoutubeVideo from "./YoutubeVideo";
+import PortfolioSection from "./PortfolioSection";
 
-export {Homeslider, Homesectiontwo, Clients, Leftsideimagesection, Twocolumncomp, Threecolcardwithrm, RightsideImagewsh, Whyushomepage, Ctahome, Threecolhome, Genralslider, Rightsideimagesection, WhyuseApp, LeftsideimageCTA , Cardwithpurledot, RightsideimageCTA, Heading, Paragraph, LeftImageList, RightImageList,Image, Cardwithpurpledottc, Contactus, SeoContact, SemCards}
+export {Homeslider, Homesectiontwo, Clients, Leftsideimagesection, Twocolumncomp, Threecolcardwithrm, RightsideImagewsh, Whyushomepage, Ctahome, Threecolhome, Genralslider, Rightsideimagesection, WhyuseApp, LeftsideimageCTA , Cardwithpurledot, RightsideimageCTA, Heading, Paragraph, LeftImageList, RightImageList,Image, Cardwithpurpledottc, Contactus, SeoContact, SemCards, YoutubeVideo, PortfolioSection}

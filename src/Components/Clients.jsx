@@ -7,7 +7,7 @@ function Clients({ data }) {
             <div className='container-fluid'>
                 <div className='container py-5 clientSection'>
                     <div className='row'>
-                        <h2 className='text-center'>{data["paragraph"]}</h2>
+                        <h2 className='text-center mb-5'>{data["paragraph"]}</h2>
                     </div>
                     <div className='row py-4'>
                         <div className='d-flex justify-content-around flex-wrap'>

@@ -6,9 +6,10 @@
     "card" : {
         "background-image" : "./src/assets/contact-bg.png",
         "heading" : "Contact Information",
-        "subheading" : "Say something to start a live chat!",
+        "subheading" : "Need help? Call our support team",
+        "paragraphOne" : "Allude to our team right now!",
+        "paragraphTwo" : "Utilise your time where it is most appropriate! Together with our team, let's realise your ambition.",
         "mobile" : "+91 6266250338",
-        "email" : "technisuminfo@gmail.com",
-        "address" : "132 Dartmouth Street Boston, Massachusetts 02156 United States"
+        "email" : "technisuminfo@gmail.com"
     }
 }

@@ -13,7 +13,7 @@ function Homeslider({data}) {
                     <div><Link to='contact-us' className='sliderButton'>{data["button"]}</Link></div>
                 </div>
                 <div className='col'>
-                    <img src={data["image"]} alt="" className='float-end img-fluid'/>
+                    <img src={data["image"]} alt="" className='float-end img-fluid mb-5 home-slider-image'/>
                 </div>
             </div>
         </div>

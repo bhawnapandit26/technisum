@@ -1,8 +1,8 @@
 import React from 'react'
 import data from "/src/Json/Home.json"
-import { Clients, Ctahome, Homesectiontwo, Homeslider, LeftsideimageCTA, RightsideimageCTA, Threecolcardwithrm, Threecolhome, Twocolumncomp, Whyushomepage } from '../Components/Index'
+import { Clients, Ctahome, Homesectiontwo, Homeslider, LeftsideimageCTA, RightsideimageCTA, Threecolcardwithrm, Threecolhome, Twocolumncomp, Whyushomepage, YoutubeVideo } from '../Components/Index'
 
-
+ 
 function Home() {
     return (
         <>
@@ -14,6 +14,7 @@ function Home() {
             <Threecolcardwithrm data={data["sahdowCards"]}/>
             <RightsideimageCTA data={data["rightSideImageSection"]}/>
             <Whyushomepage data={data["whyUsSection"]}/>
+            <YoutubeVideo data={data["youtubeVideo"]}/>
             <Ctahome data={data["ctaSection"]}/>
             <RightsideimageCTA data={data["whyUsSecondSection"]}/>
             <Threecolhome data={data["threeColumnSection"]}/>

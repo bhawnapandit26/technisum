@@ -1,7 +1,7 @@
 {
     "slider": {
-        "backGround": "./src/assets/slider-bg.png",
-        "image": "./src/assets/slider-image.png",
+        "backGround": "/src/assets/slider-bg.png",
+        "image": "./src/assets/technisum.gif",
         "alt": "technisum",
         "smallHeading": "Boost Your Business",
         "heading": "Transform Your Clicks Into Clients",
@@ -28,15 +28,15 @@
                 "btn-link" : "e-consultants"
             }
         ]
-    },
+    }, 
     "company": {
         "paragraph": "Over 500+ of the fastest-growing firms are collaborating with Technisum ",
         "client": [
-            "./src/assets/image3.png",
-            "./src/assets/image4.png",
-            "./src/assets/image5.png",
-            "./src/assets/image6.png",
-            "./src/assets/image7.png"
+            "./src/assets/client-logo-one.png",
+            "./src/assets/client-logo-two.png",
+            "./src/assets/client-logo-three.png",
+            "./src/assets/client-logo-four.png",
+            "./src/assets/client-logo-five.png"
         ]
     },
     "leftSideImageSection": {
@@ -115,19 +115,19 @@
         "heading": "Enhancing User Experience with these 4 Game-Changing Technologies",
         "paragraph": [
             {
-                "boldContent": "Responsive Web Design:",
+                "boldContent": "Responsive Web Design : ",
                 "paragraph": "Craft websites that adapt seamlessly to all devices, ensuring a consistent and user-friendly experience."
             },
             {
-                "boldContent": "rogressive Web Apps (PWAs):",
+                "boldContent": "rogressive Web Apps (PWAs) : ",
                 "paragraph": "Developing web applications that offer app-like experiences, including offline access, push notifications, and faster load times."
             },
             {
-                "boldContent": "Single Page Applications (SPAs):",
+                "boldContent": "Single Page Applications (SPAs) : ",
                 "paragraph": "Create dynamic and fluid web experiences with SPAs, resulting in quicker and more interactive websites."
             },
             {
-                "boldContent": "Artificial Intelligence (AI) Integration:",
+                "boldContent": "Artificial Intelligence (AI) Integration : ",
                 "paragraph": "Chatbots, recommendation engines, and personalized content delivery to enhance user engagement."
             }
         ],
@@ -145,31 +145,32 @@
                 "image": "./src/assets/Group 730.png",
                 "alt": "creative idea",
                 "heading": "Creative Ideas",
-                "paragraph": "Purabitur massa tortor, ornare at mi sed luctus eleifend lorem."
+                "paragraph": "Depending on your needs, our team of professionals collaborates to determine what's ideal for you."
             },
             {
                 "image": "./src/assets/Group 729.png",
                 "alt": "awesome design",
                 "heading": "Awesome Design",
-                "paragraph": "In mollis consectetur pulvinar. Curabitur sed sagittis dui."
+                "paragraph": "The best website designs are created by our team of experts to meet your specific requirements."
             },
             {
                 "image": "./src/assets/Group 731.png",
                 "alt": "beast features",
                 "heading": "Best Features",
-                "paragraph": "Nullam venenatis luctus fringilla. Morbi a pellentesque metus."
+                "paragraph": "Enhancing and personalizing your website's features will optimize its performance."
             },
             {
                 "image": "./src/assets/Group 732.png",
                 "alt": "easy solutions",
                 "heading": "Easy Solutions",
-                "paragraph": "Etiam porttitor bibendum egestas. Proin quis laoreet mauris."
+                "paragraph": "We provide a one-stop, top-notch solution that satisfies customers with both quantity and quality."
             }
         ]
     },
+    "youtubeVideo" : "https://www.youtube.com/embed/5cvoA2PmsR4",
     "ctaSection": {
         "paragraph": "We Offer A Variety Of Software Solution Services,Including Platform Development, Custom Programme Creation, And IT Consulting. ",
-        "image": "./src/assets/smart-home-gf21a64b6e_1920.png",
+        "image": "/src/assets/smart-home-gf21a64b6e_1920.png",
         "alt": "software solutions"
     },
     "whyUsSecondSection": {

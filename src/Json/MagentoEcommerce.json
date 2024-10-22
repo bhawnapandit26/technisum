@@ -41,11 +41,11 @@
     "company": {
         "paragraph": "Over 500+ of the fastest-growing firms are collaborating with Technisum ",
         "client": [
-            "./src/assets/image3.png",
-            "./src/assets/image4.png",
-            "./src/assets/image5.png",
-            "./src/assets/image6.png",
-            "./src/assets/image7.png"
+            "./src/assets/client-logo-one.png",
+            "./src/assets/client-logo-two.png",
+            "./src/assets/client-logo-three.png",
+            "./src/assets/client-logo-four.png",
+            "./src/assets/client-logo-five.png"
         ]
     }
 }

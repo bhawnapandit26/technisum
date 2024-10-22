@@ -109,6 +109,7 @@ header {
   position: sticky;
   width: 100%;
   top: 0;
+  z-index: 10;
 }
 
 header li.nav-item {
@@ -118,12 +119,13 @@ a.header-btn:hover {
   box-shadow: 0px 0px 17px #d8ade1;
 }
 .navbar-nav .dropdown-menu {
-  background: linear-gradient(to right, #e3b4e4, #FBC2EB) ;
+  background: linear-gradient(to right, #ffffffde, #fefefed6) ;
   border: none;
 }
 .dropdown-item {
-  color: #fff !important;
+  color: #000000 !important;
   font-size: 1.25rem;
+  margin: 25px 0 0 0;
 }
 .dropdown-item:hover, .dropdown-item:active, .dropdown-item.active{
   background-color: var(--purple);
@@ -168,6 +170,12 @@ ul.dropdown-menu{
 .sliderButton:hover {
   box-shadow: 0px 0px 10px #a38dd2;
 }
+.home-slider-image{
+  margin-top: 30px;
+}
+
+
+
 /*Home Second Section*/
 .home-card-section {
   gap: 5.12rem;
@@ -300,6 +308,27 @@ form.seoform p{
   font-weight: 500;
 }
 
+/*****Portfolio Cards******/
+.portfolioCards{
+  height: 100%;
+  box-shadow: 0px 0px 24px 0px rgba(0, 0, 0, 0.04);
+  border-radius: 0.625rem;
+  background-color: #fbc2eb90;
+}
+
+.portfolioCards:hover{
+  box-shadow: 0px 0px 31px 0px rgb(0 0 0 / 11%);
+}
+.portfolioCards h4 {
+  font-size: 1.2rem;
+}
+
+.portfolioCards img{
+  border-radius: 0.625rem 0.625rem 0rem 0rem;
+}
+
+
+
 /*why us home page*/
 /* .whyuscard img {
   padding: 1rem;
@@ -341,6 +370,12 @@ p.genralsliderPara {
   line-height: 2.3rem;
   padding: 0rem 0 3rem;
 }
+/*our client section*/
+
+.clientImage img.img-fluid {
+  max-width: 165px;
+}
+
 
 /*Why use app*/
 .whyuseapp {
@@ -431,9 +466,11 @@ p.genralsliderPara {
   width: 15px;
   height: 15px;
   border-radius: 50%;
+  cursor: pointer;
 }
 .checkbox-option input[type="checkbox"]:checked {
-  background: #000;
+  background: #fff;
+  border: 5px solid var(--purple);
 }
 
 /*Slider CSS*/
@@ -530,11 +567,21 @@ li.nav-item.dropdown{
   position: static;
 }
 .navbar-expand-lg .navbar-nav .dropdown-menu{
-  max-height: 500px;
-    overflow-y: scroll;
+  max-height: 100%;
 }
 .dropdown-menu ul {
   list-style: none;
+}
+
+/**Accordion**/
+.accordion-button:focus{
+  border-color: var(--purple);
+  box-shadow: none;
+}
+
+.accordion-button:not(.collapsed){
+  color: var(--primary-font-color);
+  background-color: #fbc2eb70;
 }
 /**********************************************Responsive CSS************************************************/
 
@@ -595,7 +642,11 @@ li.nav-item.dropdown{
     left: 0;
     right: 0;
     overflow-y: auto;
-}
+    max-height: 500px;
+  }
+  .dropdown-item {
+    margin:0;
+  }
 }
 
 @media (min-width: 1200px){
@@ -613,6 +664,9 @@ li.nav-item.dropdown{
   }
   .slider-bg {
     padding: 9rem 0;
+  }
+  .home-slider-image{
+    margin-top: 0;
   }
 }
 

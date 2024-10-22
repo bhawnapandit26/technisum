@@ -3,7 +3,7 @@ import React from 'react'
 function Ctahome({data}) {
   return (
     <>
-        <div className="container-fluid homecta my-5">
+        <div className="container-fluid homecta mb-5">
             <div className="container">
                 <div className="row">
                     <div className="col">

@@ -94,10 +94,16 @@ function Header() {
                                     </ul> */}
                                 </li>
                                 <li className="nav-item">
+                                    <NavLink className="nav-link text-white" to="portfolio">Portfolio</NavLink>
+                                </li>
+                                <li className="nav-item">
                                     <NavLink className="nav-link text-white" to="about">About</NavLink>
                                 </li>
                                 <li className="nav-item">
                                     <NavLink className="nav-link text-white" to="it-consulting">Consultancy</NavLink>
+                                </li>
+                                <li className="nav-item">
+                                    <a className="nav-link text-white" href='https://blog.technisum.com/'>Blog</a>
                                 </li>
                                 <li className="nav-item">
                                     <NavLink className="nav-link text-white border border-white border-1 rounded-pill px-4 header-btn text-center" to="contact-us">Contact Us</NavLink>
