@@ -65,6 +65,126 @@
             "alt": "hickitchen",
             "heading": "HIC kitchen",
             "link" : "https://www.hickitchen.com/"
+        },
+        {
+            "image": "./src/assets/Portfolio/hifisanctuary.png",
+            "alt": "Hifi Sanctuary",
+            "heading": "HIFI Sanctuary",
+            "link" : "https://www.hifisanctuary.dk/"
+        },
+        {
+            "image": "./src/assets/Portfolio/inhvn.png",
+            "alt": "inhvn",
+            "heading": "in HVN",
+            "link" : "https://www.inhvn.in/"
+        },
+        {
+            "image": "./src/assets/Portfolio/inputcreativestudio.png",
+            "alt": "inputcreativestudio",
+            "heading": "Input Creative Studio",
+            "link" : "https://www.inputcreativestudio.com/"
+        },
+        {
+            "image": "./src/assets/Portfolio/itinow.png",
+            "alt": "itinow",
+            "heading": "ITI Now",
+            "link" : "https://www.itinow.com/"
+        },
+        {
+            "image": "./src/assets/Portfolio/jember.png",
+            "alt": "jember",
+            "heading": "Jember",
+            "link" : "https://jember.in/"
+        },
+        {
+            "image": "./src/assets/Portfolio/jgischhindwara.png",
+            "alt": "jgis chhindwara",
+            "heading": "JGIS Chhindwara",
+            "link" : "https://www.jgischhindwara.com/"
+        },
+        {
+            "image": "./src/assets/Portfolio/jwelric.png",
+            "alt": "jwelric",
+            "heading": "Jwelric",
+            "link" : "https://jwelric.com/"
+        },
+        {
+            "image": "./src/assets/Portfolio/leevocs.png",
+            "alt": "leevocs",
+            "heading": "Leevocs",
+            "link" : "https://leevocs.com/"
+        },
+        {
+            "image": "./src/assets/Portfolio/nuvidacare.png",
+            "alt": "nuvidacare",
+            "heading": "Nuvida Care",
+            "link" : "https://nuvidacare.in/"
+        },
+        {
+            "image": "./src/assets/Portfolio/plumsandcherries.png",
+            "alt": "plumsandcherries",
+            "heading": "Plums & Cherries",
+            "link" : "https://plumsandcherries.com/"
+        },
+        {
+            "image": "./src/assets/Portfolio/privin.png",
+            "alt": "privin",
+            "heading": "Privin",
+            "link" : "https://privin.net/"
+        },
+        {
+            "image": "./src/assets/Portfolio/prowrrap.png",
+            "alt": "prowrrap",
+            "heading": "Pro Wrrap",
+            "link" : "https://prowrrap.com/"
+        },
+        {
+            "image": "./src/assets/Portfolio/shivgamifinance.png",
+            "alt": "shivgamifinance",
+            "heading": "Shivgami Finance",
+            "link" : "https://shivgamifinance.com/"
+        },
+        {
+            "image": "./src/assets/Portfolio/sleekandpeek.png",
+            "alt": "sleekandpeek",
+            "heading": "Sleek & Peek",
+            "link" : "https://sleekandpeek.com/"
+        },
+        {
+            "image": "./src/assets/Portfolio/systemxindia.png",
+            "alt": "systemxindia",
+            "heading": "System X India",
+            "link" : "https://systemxindia.com/protections/"
+        },
+        {
+            "image": "./src/assets/Portfolio/tatanexarc.png",
+            "alt": "tatanexarc",
+            "heading": "TATA Nexarc",
+            "link" : "https://blog.tatanexarc.com/"
+        },
+        {
+            "image": "./src/assets/Portfolio/tathhastu.png",
+            "alt": "tathhastu",
+            "heading": "Tathhastu",
+            "link" : "https://tathhastu.in/"
+        },
+        {
+            "image": "./src/assets/Portfolio/thebebranded.png",
+            "alt": "thebebranded",
+            "heading": "The Be Branded",
+            "link" : "https://thebebranded.online/"
+        },
+        {
+            "image": "./src/assets/Portfolio/vanguardcon.png",
+            "alt": "vanguardcon",
+            "heading": "Vanguard",
+            "link" : "https://vanguardcon.com/"
+        },
+        {
+            "image": "./src/assets/Portfolio/woodpeckersports.png",
+            "alt": "woodpeckersports",
+            "heading": "Woodpecker Sports",
+            "link" : "https://woodpeckersports.com/"
         }
     ]
 }

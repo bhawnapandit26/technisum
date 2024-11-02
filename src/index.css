@@ -342,7 +342,7 @@ form.seoform p{
 
 /*home CTA*/
 .homecta {
-  background-image: url("./src/assets/smart-home-gf21a64b6e_1920.png");
+  background-image: url("/src/assets/smart-home-gf21a64b6e_1920.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
